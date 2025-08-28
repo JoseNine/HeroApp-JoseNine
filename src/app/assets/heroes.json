@@ -1,0 +1,5069 @@
+[
+  {
+    "id": 1,
+    "name": "A-Bomb",
+    "slug": "1-a-bomb",
+    "work": {
+      "occupation": "Musician, adventurer, author; formerly talk show host",
+      "base": "-"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Abe Sapien",
+    "slug": "2-abe-sapien",
+    "work": {
+      "occupation": "Paranormal Investigator",
+      "base": "-"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Abin Sur",
+    "slug": "3-abin-sur",
+    "work": {
+      "occupation": "Green Lantern, former history professor",
+      "base": "Oa"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Abomination",
+    "slug": "4-abomination",
+    "work": {
+      "occupation": "Ex-Spy",
+      "base": "Mobile"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Abraxas",
+    "slug": "5-abraxas",
+    "work": {
+      "occupation": "Dimensional destroyer",
+      "base": "-"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Absorbing Man",
+    "slug": "6-absorbing-man",
+    "work": {
+      "occupation": "Professional criminal; former professional boxer",
+      "base": "-"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Adam Monroe",
+    "slug": "7-adam-monroe",
+    "work": {
+      "occupation": "former samurai swordsman, former British mercenary commander, former soldier in the Confederate Army",
+      "base": "U.S.; formerly Diedenshausen, Germany; Milan, Italy; Paris, France; Japan; England; Atlanta, GA; Montreal, Canada"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Adam Strange",
+    "slug": "8-adam-strange",
+    "work": {
+      "occupation": "Adventurer, archaelogist, ambassador",
+      "base": "Rann, Alpha Centauri System"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Agent Bob",
+    "slug": "10-agent-bob",
+    "work": {
+      "occupation": "Mercenary, janitor; former pirate, terrorist",
+      "base": "Mobile; formerly Manhattan, Hellcarrier"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Agent Zero",
+    "slug": "11-agent-zero",
+    "work": {
+      "occupation": "Mercenary, former government operative, freedom fighter",
+      "base": "-"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Air-Walker",
+    "slug": "12-air-walker",
+    "work": {
+      "occupation": "Former starship captain, Herald of Galactus",
+      "base": "-"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Ajax",
+    "slug": "13-ajax",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Alan Scott",
+    "slug": "14-alan-scott",
+    "work": {
+      "occupation": "-",
+      "base": "Gotham City and New York City; Formerly Capitol City"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Alex Mercer",
+    "slug": "15-alex-mercer",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Alfred Pennyworth",
+    "slug": "17-alfred-pennyworth",
+    "work": {
+      "occupation": "Butler; Caretaker, former Actor; Field Medic; Government Agent",
+      "base": "Wayne Manor; Batcave; Gotham City"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Alien",
+    "slug": "18-alien",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Amazo",
+    "slug": "20-amazo",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Angel",
+    "slug": "23-angel",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Angel",
+    "slug": "24-angel",
+    "work": {
+      "occupation": "Adventurer, chairman & principal stockholder of Worthington Industries, former terrorist",
+      "base": "-"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Angel Dust",
+    "slug": "25-angel-dust",
+    "work": {
+      "occupation": "-",
+      "base": "Chicago, Illinois"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Angel Salvadore",
+    "slug": "26-angel-salvadore",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Animal Man",
+    "slug": "28-animal-man",
+    "work": {
+      "occupation": "-",
+      "base": "San Diego, California"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Annihilus",
+    "slug": "29-annihilus",
+    "work": {
+      "occupation": "Conqueror, scavenger",
+      "base": "-"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Ant-Man",
+    "slug": "30-ant-man",
+    "work": {
+      "occupation": "Adventurer, Biochemist, former manager of Avengers Compound",
+      "base": "Avengers Compound, Los Angeles; formerly Infinite Avengers Mansion; Captive aboard a Skrull ship; Avengers Mansion, New York City, New York"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Ant-Man II",
+    "slug": "31-ant-man-ii",
+    "work": {
+      "occupation": "Electronics Technician,",
+      "base": "South Beach, Miami, Florida; formerly Farmingdale, Long Island, New York"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Anti-Monitor",
+    "slug": "32-anti-monitor",
+    "work": {
+      "occupation": "-",
+      "base": "Qward, Antimatter Universe"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Anti-Venom",
+    "slug": "34-anti-venom",
+    "work": {
+      "occupation": "Vigilante; former journalist for the Daily Globe",
+      "base": "New York, New York"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Apocalypse",
+    "slug": "35-apocalypse",
+    "work": {
+      "occupation": "Student; formerly Conqueror; Scientist",
+      "base": "Celestial Ship, mobile"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Aquababy",
+    "slug": "36-aquababy",
+    "work": {
+      "occupation": "-",
+      "base": "Atlantis"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Aqualad",
+    "slug": "37-aqualad",
+    "work": {
+      "occupation": "Adventurer; Magician, former Sidekick",
+      "base": "Atlantis"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Aquaman",
+    "slug": "38-aquaman",
+    "work": {
+      "occupation": "Protector of the Seas and Oceans, King of Poseidonis",
+      "base": "Atlantean Royal Palace; Poseidonis, Atlantis"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Arachne",
+    "slug": "39-arachne",
+    "work": {
+      "occupation": "Adventurer, fugitive, former government agent",
+      "base": "Mobile; formerly Denver, Colorado; formerly Avengers Compound, Los Angeles, California"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Archangel",
+    "slug": "40-archangel",
+    "work": {
+      "occupation": "Adventurer, Chairman & principal stockholder of Worthington Industries, Multi-Millionaire, Heir, former terrorist",
+      "base": "-"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Arclight",
+    "slug": "41-arclight",
+    "work": {
+      "occupation": "Terrorist",
+      "base": "-"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Ardina",
+    "slug": "42-ardina",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 43,
+    "name": "Ares",
+    "slug": "43-ares",
+    "work": {
+      "occupation": "-",
+      "base": "Avengers Tower, formerly Olympus"
+    }
+  },
+  {
+    "id": 44,
+    "name": "Ariel",
+    "slug": "44-ariel",
+    "work": {
+      "occupation": "Leader, refugee alien; former alien mutant-hunter and hedonist",
+      "base": "-"
+    }
+  },
+  {
+    "id": 45,
+    "name": "Armor",
+    "slug": "45-armor",
+    "work": {
+      "occupation": "Adventurer, student",
+      "base": "-"
+    }
+  },
+  {
+    "id": 48,
+    "name": "Atlas",
+    "slug": "48-atlas",
+    "work": {
+      "occupation": "Adventurer; former professional criminal, mercenary, dock worker, soldier",
+      "base": "-"
+    }
+  },
+  {
+    "id": 49,
+    "name": "Atlas",
+    "slug": "49-atlas",
+    "work": {
+      "occupation": "-",
+      "base": "Formely; Hyssa, Metropolis"
+    }
+  },
+  {
+    "id": 52,
+    "name": "Atom Girl",
+    "slug": "52-atom-girl",
+    "work": {
+      "occupation": "-",
+      "base": "United Planets, 31st century"
+    }
+  },
+  {
+    "id": 53,
+    "name": "Atom II",
+    "slug": "53-atom-ii",
+    "work": {
+      "occupation": "Physics Professor",
+      "base": "Ivy Town"
+    }
+  },
+  {
+    "id": 56,
+    "name": "Aurora",
+    "slug": "56-aurora",
+    "work": {
+      "occupation": "Adventurer; former terrorist, nun, history/geography teacher",
+      "base": "Laval, Quebec, Canada"
+    }
+  },
+  {
+    "id": 57,
+    "name": "Azazel",
+    "slug": "57-azazel",
+    "work": {
+      "occupation": "Leader of the Neyaphem",
+      "base": "Brimstone Dimension; formerly La Isla des Demonas, Bermuda"
+    }
+  },
+  {
+    "id": 58,
+    "name": "Azrael",
+    "slug": "58-azrael",
+    "work": {
+      "occupation": "Former Police Officer, vigilante",
+      "base": "-"
+    }
+  },
+  {
+    "id": 60,
+    "name": "Bane",
+    "slug": "60-bane",
+    "work": {
+      "occupation": "-",
+      "base": "Santa Prisca"
+    }
+  },
+  {
+    "id": 61,
+    "name": "Banshee",
+    "slug": "61-banshee",
+    "work": {
+      "occupation": "Currently founder and director of operation for X-Corps, formerly Adventurer and Headmaster at the Massachusetts Academy, in charge of Generation X, Interpol Inspector and Agent, freelance detective, professional criminal, involuntary operative for Factor",
+      "base": "Muir Island, off the coast of Scotland. formerly Massachusetts Academy; Xavier Institute"
+    }
+  },
+  {
+    "id": 62,
+    "name": "Bantam",
+    "slug": "62-bantam",
+    "work": {
+      "occupation": "Adventurer, boxing trainer, former boxer",
+      "base": "-"
+    }
+  },
+  {
+    "id": 63,
+    "name": "Batgirl",
+    "slug": "63-batgirl",
+    "work": {
+      "occupation": "-",
+      "base": "Gotham City, formerly Metropolis, Platinum Flats"
+    }
+  },
+  {
+    "id": 66,
+    "name": "Batgirl IV",
+    "slug": "66-batgirl-iv",
+    "work": {
+      "occupation": "-",
+      "base": "Gotham City; Bl?dhaven; Tibet; New York City"
+    }
+  },
+  {
+    "id": 68,
+    "name": "Batgirl VI",
+    "slug": "68-batgirl-vi",
+    "work": {
+      "occupation": "College student at Gotham University",
+      "base": "Gotham Heights, Gotham City"
+    }
+  },
+  {
+    "id": 69,
+    "name": "Batman",
+    "slug": "69-batman",
+    "work": {
+      "occupation": "-",
+      "base": "21st Century Gotham City"
+    }
+  },
+  {
+    "id": 70,
+    "name": "Batman",
+    "slug": "70-batman",
+    "work": {
+      "occupation": "Businessman",
+      "base": "Batcave, Stately Wayne Manor, Gotham City; Hall of Justice, Justice League Watchtower"
+    }
+  },
+  {
+    "id": 71,
+    "name": "Batman II",
+    "slug": "71-batman-ii",
+    "work": {
+      "occupation": "-",
+      "base": "Gotham City; formerly Bludhaven, New York City"
+    }
+  },
+  {
+    "id": 72,
+    "name": "Battlestar",
+    "slug": "72-battlestar",
+    "work": {
+      "occupation": "Former wrestler, federal operative",
+      "base": "-"
+    }
+  },
+  {
+    "id": 73,
+    "name": "Batwoman V",
+    "slug": "73-batwoman-v",
+    "work": {
+      "occupation": "-",
+      "base": "Gotham City"
+    }
+  },
+  {
+    "id": 75,
+    "name": "Beast",
+    "slug": "75-beast",
+    "work": {
+      "occupation": "Biochemist, formerly Xavier Institute for Higher Learning science and math Instructor, mutant activist, college lecturer, researcher, professional wrestler",
+      "base": "Xavier Institute, Salem Center, Westchester County, New York"
+    }
+  },
+  {
+    "id": 76,
+    "name": "Beast Boy",
+    "slug": "76-beast-boy",
+    "work": {
+      "occupation": "Adventurer, Struggling Actor",
+      "base": "Prague; formerly Hollywood, California; formerly Manhattan, New York"
+    }
+  },
+  {
+    "id": 78,
+    "name": "Ben 10",
+    "slug": "78-ben-10",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 79,
+    "name": "Beta Ray Bill",
+    "slug": "79-beta-ray-bill",
+    "work": {
+      "occupation": "Guardian of the Korbinite race",
+      "base": "currently New York City, formerly Asgard, formerly the fleet of Korbinite ships."
+    }
+  },
+  {
+    "id": 80,
+    "name": "Beyonder",
+    "slug": "80-beyonder",
+    "work": {
+      "occupation": "Former student",
+      "base": "-"
+    }
+  },
+  {
+    "id": 81,
+    "name": "Big Barda",
+    "slug": "81-big-barda",
+    "work": {
+      "occupation": "-",
+      "base": "Gotham City, New Genesis, formerly Apokolips"
+    }
+  },
+  {
+    "id": 82,
+    "name": "Big Daddy",
+    "slug": "82-big-daddy",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 83,
+    "name": "Big Man",
+    "slug": "83-big-man",
+    "work": {
+      "occupation": "Reporter, professional criminal",
+      "base": "-"
+    }
+  },
+  {
+    "id": 84,
+    "name": "Bill Harken",
+    "slug": "84-bill-harken",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 87,
+    "name": "Bionic Woman",
+    "slug": "87-bionic-woman",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 88,
+    "name": "Bird-Brain",
+    "slug": "88-bird-brain",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 92,
+    "name": "Bishop",
+    "slug": "92-bishop",
+    "work": {
+      "occupation": "(current) Adventurer, (former) Commander in the XSE (Xavier's Security Enforcers)",
+      "base": "Formerly Xavier Institute for Higher Learning, Salem Center, Westchester County, New York"
+    }
+  },
+  {
+    "id": 93,
+    "name": "Bizarro",
+    "slug": "93-bizarro",
+    "work": {
+      "occupation": "-",
+      "base": "Bizarro World"
+    }
+  },
+  {
+    "id": 95,
+    "name": "Black Adam",
+    "slug": "95-black-adam",
+    "work": {
+      "occupation": "-",
+      "base": "Mobile; Formerly Kahndaq; Fawcett City; New York City"
+    }
+  },
+  {
+    "id": 96,
+    "name": "Black Bolt",
+    "slug": "96-black-bolt",
+    "work": {
+      "occupation": "King of the Inhumans",
+      "base": "Attilan, Blue Area of the Moon"
+    }
+  },
+  {
+    "id": 97,
+    "name": "Black Canary",
+    "slug": "97-black-canary",
+    "work": {
+      "occupation": "Detective/Crime-fighter, Chairperson of the Justice League of America; former florist, judo instructor",
+      "base": "Formerly Oracle's clock tower in Gotham City; formerly Seattle, Washington; formerly Star City, California; formerly New York City, New York (as a member of the JSA); currently mobile"
+    }
+  },
+  {
+    "id": 98,
+    "name": "Black Canary",
+    "slug": "98-black-canary",
+    "work": {
+      "occupation": "Florist, former private investigator",
+      "base": "Gotham City, Park City"
+    }
+  },
+  {
+    "id": 99,
+    "name": "Black Cat",
+    "slug": "99-black-cat",
+    "work": {
+      "occupation": "Cat burglar; Private investigator, founder of Cat's Eye Investigations.",
+      "base": "-"
+    }
+  },
+  {
+    "id": 100,
+    "name": "Black Flash",
+    "slug": "100-black-flash",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 102,
+    "name": "Black Knight III",
+    "slug": "102-black-knight-iii",
+    "work": {
+      "occupation": "Adventurer, scientist; former crusader",
+      "base": "-"
+    }
+  },
+  {
+    "id": 103,
+    "name": "Black Lightning",
+    "slug": "103-black-lightning",
+    "work": {
+      "occupation": "Crime Fighter, High School teacher, Former gold-medal-winning Olympic Decathlete, formerly Secretary of Education under Presidents Pete Ross and Lex Luthor.",
+      "base": "Chicago, Illinois; Metropolis, The Hall & The JLA Watchtower"
+    }
+  },
+  {
+    "id": 104,
+    "name": "Black Mamba",
+    "slug": "104-black-mamba",
+    "work": {
+      "occupation": "Mercenary, professional criminal, former call girl",
+      "base": "Mobile, formerly Serpent Citadel"
+    }
+  },
+  {
+    "id": 105,
+    "name": "Black Manta",
+    "slug": "105-black-manta",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 106,
+    "name": "Black Panther",
+    "slug": "106-black-panther",
+    "work": {
+      "occupation": "King and Chieftain of Wakanda, scientist; former school teacher",
+      "base": "Wakanda, Mobile"
+    }
+  },
+  {
+    "id": 107,
+    "name": "Black Widow",
+    "slug": "107-black-widow",
+    "work": {
+      "occupation": "Adventurer, Intelligence agent, former ballerina",
+      "base": "Mobile"
+    }
+  },
+  {
+    "id": 109,
+    "name": "Blackout",
+    "slug": "109-blackout",
+    "work": {
+      "occupation": "Assassin, enforcer",
+      "base": "-"
+    }
+  },
+  {
+    "id": 110,
+    "name": "Blackwing",
+    "slug": "110-blackwing",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 111,
+    "name": "Blackwulf",
+    "slug": "111-blackwulf",
+    "work": {
+      "occupation": "Freedom Fighter",
+      "base": "-"
+    }
+  },
+  {
+    "id": 112,
+    "name": "Blade",
+    "slug": "112-blade",
+    "work": {
+      "occupation": "Vampire hunter, former private investigator.",
+      "base": "Mobile"
+    }
+  },
+  {
+    "id": 114,
+    "name": "Bling!",
+    "slug": "114-bling!",
+    "work": {
+      "occupation": "-",
+      "base": "Utopia; formerly Graymalkin Industries, San Francisco, California; Xavier Institute, Salem Center, New York State"
+    }
+  },
+  {
+    "id": 115,
+    "name": "Blink",
+    "slug": "115-blink",
+    "work": {
+      "occupation": "Adventurer, freedom fighter",
+      "base": "Jean Grey School for Higher Learning, Salem Center, Westchester County, New York; formerly Black Rome, Necrosha"
+    }
+  },
+  {
+    "id": 118,
+    "name": "Blizzard II",
+    "slug": "118-blizzard-ii",
+    "work": {
+      "occupation": "Adventurer; former mercenary and professional criminal",
+      "base": "-"
+    }
+  },
+  {
+    "id": 119,
+    "name": "Blob",
+    "slug": "119-blob",
+    "work": {
+      "occupation": "Former criminal, terrorist, government agent, carnival performer",
+      "base": "-"
+    }
+  },
+  {
+    "id": 120,
+    "name": "Bloodaxe",
+    "slug": "120-bloodaxe",
+    "work": {
+      "occupation": "Architect, former vigilante",
+      "base": "-"
+    }
+  },
+  {
+    "id": 121,
+    "name": "Bloodhawk",
+    "slug": "121-bloodhawk",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 126,
+    "name": "Blue Beetle III",
+    "slug": "126-blue-beetle-iii",
+    "work": {
+      "occupation": "Student",
+      "base": "El Paso, Texas"
+    }
+  },
+  {
+    "id": 127,
+    "name": "Boba Fett",
+    "slug": "127-boba-fett",
+    "work": {
+      "occupation": "Bounty Hunter",
+      "base": "-"
+    }
+  },
+  {
+    "id": 130,
+    "name": "Boom-Boom",
+    "slug": "130-boom-boom",
+    "work": {
+      "occupation": "Adventurer, former student, thief",
+      "base": "-"
+    }
+  },
+  {
+    "id": 135,
+    "name": "Box IV",
+    "slug": "135-box-iv",
+    "work": {
+      "occupation": "Inventor, former soldier",
+      "base": "Base of operations unknown"
+    }
+  },
+  {
+    "id": 136,
+    "name": "Brainiac",
+    "slug": "136-brainiac",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 137,
+    "name": "Brainiac 5",
+    "slug": "137-brainiac-5",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 139,
+    "name": "Brundlefly",
+    "slug": "139-brundlefly",
+    "work": {
+      "occupation": "Scientist",
+      "base": "-"
+    }
+  },
+  {
+    "id": 140,
+    "name": "Buffy",
+    "slug": "140-buffy",
+    "work": {
+      "occupation": "Slayer ; (formerly) Waitress ; DoubleMeat Palace employee ; Sunnydale High Counselor",
+      "base": "-"
+    }
+  },
+  {
+    "id": 141,
+    "name": "Bullseye",
+    "slug": "141-bullseye",
+    "work": {
+      "occupation": "Assassin, professional criminal, former mercenary",
+      "base": "Formerly Avengers Tower; Thunderbolts Mountain"
+    }
+  },
+  {
+    "id": 142,
+    "name": "Bumblebee",
+    "slug": "142-bumblebee",
+    "work": {
+      "occupation": "-",
+      "base": "San Francisco, California"
+    }
+  },
+  {
+    "id": 144,
+    "name": "Bushido",
+    "slug": "144-bushido",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 145,
+    "name": "Cable",
+    "slug": "145-cable",
+    "work": {
+      "occupation": "(current) Adventurer, (former) freedom fighter, United States government agent, mercenary, combat instructor for X-Force",
+      "base": "The Xavier Institute, Salem Center, Westchester County, New York"
+    }
+  },
+  {
+    "id": 146,
+    "name": "Callisto",
+    "slug": "146-callisto",
+    "work": {
+      "occupation": "-",
+      "base": "The Xavier Institute, Salem Center, Westchester County, New York State, (former) The Alley (beneath Manhattan's surface), X-Factor I's sentient starship"
+    }
+  },
+  {
+    "id": 147,
+    "name": "Cameron Hicks",
+    "slug": "147-cameron-hicks",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 148,
+    "name": "Cannonball",
+    "slug": "148-cannonball",
+    "work": {
+      "occupation": "Adventurer, peacekeeper, former student, mercenary, miner",
+      "base": "-"
+    }
+  },
+  {
+    "id": 149,
+    "name": "Captain America",
+    "slug": "149-captain-america",
+    "work": {
+      "occupation": "Adventurer, federal official, intelligence operative; former soldier, Hydra agent, liaison between S.H.I.E.L.D. and the Avengers, police officer, teacher, sparring partner.",
+      "base": "New York City"
+    }
+  },
+  {
+    "id": 150,
+    "name": "Captain Atom",
+    "slug": "150-captain-atom",
+    "work": {
+      "occupation": "Former Soldier",
+      "base": "-"
+    }
+  },
+  {
+    "id": 151,
+    "name": "Captain Britain",
+    "slug": "151-captain-britain",
+    "work": {
+      "occupation": "Adventurer, formerly King of Otherworld, scientist",
+      "base": "Lighthouse, Earth Orbit; Starlight Citadel, Otherworld; formerly Braddock Manor; Braddock Lighthouse, England; New York City (during exchange trip, specifically Peter Parker's Manhattan apartment); flat near Thames University, London"
+    }
+  },
+  {
+    "id": 152,
+    "name": "Captain Cold",
+    "slug": "152-captain-cold",
+    "work": {
+      "occupation": "Professional Criminal",
+      "base": "-"
+    }
+  },
+  {
+    "id": 154,
+    "name": "Captain Hindsight",
+    "slug": "154-captain-hindsight",
+    "work": {
+      "occupation": "Former Superhero; News Reporter",
+      "base": "-"
+    }
+  },
+  {
+    "id": 156,
+    "name": "Captain Marvel",
+    "slug": "156-captain-marvel",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 157,
+    "name": "Captain Marvel",
+    "slug": "157-captain-marvel",
+    "work": {
+      "occupation": "Former National Aeronautics and Space Administration security Chief, former magazine editor, former freelance writer, former military intelligence officer.",
+      "base": "Avengers Mansion"
+    }
+  },
+  {
+    "id": 158,
+    "name": "Captain Marvel II",
+    "slug": "158-captain-marvel-ii",
+    "work": {
+      "occupation": "Adventurer",
+      "base": "Primarily Fawcett City."
+    }
+  },
+  {
+    "id": 160,
+    "name": "Captain Planet",
+    "slug": "160-captain-planet",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 162,
+    "name": "Carnage",
+    "slug": "162-carnage",
+    "work": {
+      "occupation": "-",
+      "base": "New York City"
+    }
+  },
+  {
+    "id": 165,
+    "name": "Catwoman",
+    "slug": "165-catwoman",
+    "work": {
+      "occupation": "Thief",
+      "base": "Gotham City"
+    }
+  },
+  {
+    "id": 167,
+    "name": "Century",
+    "slug": "167-century",
+    "work": {
+      "occupation": "Tracker, adventurer",
+      "base": "-"
+    }
+  },
+  {
+    "id": 169,
+    "name": "Chamber",
+    "slug": "169-chamber",
+    "work": {
+      "occupation": "Adventurer",
+      "base": "Utopia; formerly New Warriors HQ; Xavier Institute for Higher Learning, Salem Center, Westchester County, New York; Massachusetts Academy, Snow Valley, Massachusetts"
+    }
+  },
+  {
+    "id": 170,
+    "name": "Chameleon",
+    "slug": "170-chameleon",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 171,
+    "name": "Changeling",
+    "slug": "171-changeling",
+    "work": {
+      "occupation": "Former substitute teacher, adventurer, subversive",
+      "base": "-"
+    }
+  },
+  {
+    "id": 172,
+    "name": "Cheetah",
+    "slug": "172-cheetah",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 174,
+    "name": "Cheetah III",
+    "slug": "174-cheetah-iii",
+    "work": {
+      "occupation": "Archaeologist, Anthropologist",
+      "base": "Nottingham, England"
+    }
+  },
+  {
+    "id": 176,
+    "name": "Chuck Norris",
+    "slug": "176-chuck-norris",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 177,
+    "name": "Citizen Steel",
+    "slug": "177-citizen-steel",
+    "work": {
+      "occupation": "Adventurer, former Professional Football Player",
+      "base": "Battery Park, New York City, formerly Franklin County, Ohio"
+    }
+  },
+  {
+    "id": 178,
+    "name": "Claire Bennet",
+    "slug": "178-claire-bennet",
+    "work": {
+      "occupation": "High school student, cheerleader",
+      "base": "formerly Odessa, TX, Costa Verde, CA"
+    }
+  },
+  {
+    "id": 180,
+    "name": "Cloak",
+    "slug": "180-cloak",
+    "work": {
+      "occupation": "Vigilante",
+      "base": "Holy Ghost Church, 42nd Street, New York City"
+    }
+  },
+  {
+    "id": 181,
+    "name": "Clock King",
+    "slug": "181-clock-king",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 185,
+    "name": "Colossus",
+    "slug": "185-colossus",
+    "work": {
+      "occupation": "(current) Adventurer, student, (former) Artist",
+      "base": "(current) Professor Charles Xavier's Institute for Higher Learning, Salem Center, Westchester County, New York (former) Muir Isle, Scotland,; a loft in Soho, Manhattan, Ust-Ordynski Collective, Lake Baikal, Siberia, U.S.S.R., X-Men Headquarters in Austra"
+    }
+  },
+  {
+    "id": 186,
+    "name": "Copycat",
+    "slug": "186-copycat",
+    "work": {
+      "occupation": "-",
+      "base": "Mobile; formerly Adirondack Mountains, Xavier's School for Gifted Youngsters"
+    }
+  },
+  {
+    "id": 188,
+    "name": "Cottonmouth",
+    "slug": "188-cottonmouth",
+    "work": {
+      "occupation": "Professional criminal",
+      "base": "Serpent Citadel"
+    }
+  },
+  {
+    "id": 191,
+    "name": "Crystal",
+    "slug": "191-crystal",
+    "work": {
+      "occupation": "Mother, adventuress",
+      "base": "-"
+    }
+  },
+  {
+    "id": 194,
+    "name": "Cyborg",
+    "slug": "194-cyborg",
+    "work": {
+      "occupation": "Adventurer, Teen Titan",
+      "base": "San Francisco"
+    }
+  },
+  {
+    "id": 195,
+    "name": "Cyborg Superman",
+    "slug": "195-cyborg-superman",
+    "work": {
+      "occupation": "-",
+      "base": "Warworld, Qward, Antimatter Universe, formerly Biot, Sector 3601"
+    }
+  },
+  {
+    "id": 196,
+    "name": "Cyclops",
+    "slug": "196-cyclops",
+    "work": {
+      "occupation": "Leader of mutant race, adventurer, headmaster, former student, radio announcer",
+      "base": "Xavier Institute, Salem Center, Westchester County, New York"
+    }
+  },
+  {
+    "id": 198,
+    "name": "Dagger",
+    "slug": "198-dagger",
+    "work": {
+      "occupation": "Vigilante",
+      "base": "Holy Ghost Church, 42nd Street, New York City"
+    }
+  },
+  {
+    "id": 200,
+    "name": "Daphne Powell",
+    "slug": "200-daphne-powell",
+    "work": {
+      "occupation": "Student",
+      "base": "-"
+    }
+  },
+  {
+    "id": 201,
+    "name": "Daredevil",
+    "slug": "201-daredevil",
+    "work": {
+      "occupation": "Adventurer, vigilante, Attorney at Law",
+      "base": "Hell's Kitchen, New York, New York, Shadowland (formerly)"
+    }
+  },
+  {
+    "id": 202,
+    "name": "Darkhawk",
+    "slug": "202-darkhawk",
+    "work": {
+      "occupation": "Retired Superhero",
+      "base": "Los Angeles, California; formerly New York City and Avengers Compound"
+    }
+  },
+  {
+    "id": 203,
+    "name": "Darkman",
+    "slug": "203-darkman",
+    "work": {
+      "occupation": "Scientist",
+      "base": "-"
+    }
+  },
+  {
+    "id": 204,
+    "name": "Darkseid",
+    "slug": "204-darkseid",
+    "work": {
+      "occupation": "Dictator of Apokolips",
+      "base": "-"
+    }
+  },
+  {
+    "id": 206,
+    "name": "Darkstar",
+    "slug": "206-darkstar",
+    "work": {
+      "occupation": "Occupation unknown",
+      "base": "(before death) Paris, France (formerly) Moscow, USSR; Los Angeles, California, United States"
+    }
+  },
+  {
+    "id": 207,
+    "name": "Darth Maul",
+    "slug": "207-darth-maul",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 208,
+    "name": "Darth Vader",
+    "slug": "208-darth-vader",
+    "work": {
+      "occupation": "Sith Lord, Supreme Commander of the Imperial Fleet",
+      "base": "Death Star"
+    }
+  },
+  {
+    "id": 209,
+    "name": "Dash",
+    "slug": "209-dash",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 210,
+    "name": "Data",
+    "slug": "210-data",
+    "work": {
+      "occupation": "Lieutenant commander",
+      "base": "-"
+    }
+  },
+  {
+    "id": 211,
+    "name": "Dazzler",
+    "slug": "211-dazzler",
+    "work": {
+      "occupation": "Adventurer, singer, former actress, model, revolutionary",
+      "base": "-"
+    }
+  },
+  {
+    "id": 212,
+    "name": "Deadman",
+    "slug": "212-deadman",
+    "work": {
+      "occupation": "Wandering Spirit, Former Circus Aerialist",
+      "base": "Mobile, Realm of the Just Dead"
+    }
+  },
+  {
+    "id": 213,
+    "name": "Deadpool",
+    "slug": "213-deadpool",
+    "work": {
+      "occupation": "Mercenary; former enforcer, government operative, sumo wrestler, soldier, assassin, anti-hero, others",
+      "base": "Cavern-X, Sedona, Arizona, Mobile"
+    }
+  },
+  {
+    "id": 214,
+    "name": "Deadshot",
+    "slug": "214-deadshot",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 215,
+    "name": "Deathlok",
+    "slug": "215-deathlok",
+    "work": {
+      "occupation": "-",
+      "base": "New York area"
+    }
+  },
+  {
+    "id": 216,
+    "name": "Deathstroke",
+    "slug": "216-deathstroke",
+    "work": {
+      "occupation": "Mercenary; Former Soldier, Big-Game Hunter",
+      "base": "The Labyrinth (exact location is currently unknown)"
+    }
+  },
+  {
+    "id": 217,
+    "name": "Demogoblin",
+    "slug": "217-demogoblin",
+    "work": {
+      "occupation": "Demonic Redeemer",
+      "base": "New York City"
+    }
+  },
+  {
+    "id": 218,
+    "name": "Destroyer",
+    "slug": "218-destroyer",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 219,
+    "name": "Diamondback",
+    "slug": "219-diamondback",
+    "work": {
+      "occupation": "Criminal",
+      "base": "-"
+    }
+  },
+  {
+    "id": 220,
+    "name": "DL Hawkins",
+    "slug": "220-dl-hawkins",
+    "work": {
+      "occupation": "Construction worker, Firefighter",
+      "base": "Las Vegas, NV"
+    }
+  },
+  {
+    "id": 221,
+    "name": "Doc Samson",
+    "slug": "221-doc-samson",
+    "work": {
+      "occupation": "Psychiatrist, teacher, adventurer, former special consultant to Gamma Base",
+      "base": "Psychiatrist, teacher, adventurer, former special consultant to Gamma Base"
+    }
+  },
+  {
+    "id": 222,
+    "name": "Doctor Doom",
+    "slug": "222-doctor-doom",
+    "work": {
+      "occupation": "Monarch",
+      "base": "Castle Doom, Doomstadt, Latveria"
+    }
+  },
+  {
+    "id": 224,
+    "name": "Doctor Fate",
+    "slug": "224-doctor-fate",
+    "work": {
+      "occupation": "-",
+      "base": "Tower of Fate, Salem, Massachusetts"
+    }
+  },
+  {
+    "id": 225,
+    "name": "Doctor Octopus",
+    "slug": "225-doctor-octopus",
+    "work": {
+      "occupation": "Former atomic-research consultant, criminal mastermind",
+      "base": "New York City"
+    }
+  },
+  {
+    "id": 226,
+    "name": "Doctor Strange",
+    "slug": "226-doctor-strange",
+    "work": {
+      "occupation": "Sorcerer Supreme, retired neurosurgeon",
+      "base": "-"
+    }
+  },
+  {
+    "id": 227,
+    "name": "Domino",
+    "slug": "227-domino",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 228,
+    "name": "Donatello",
+    "slug": "228-donatello",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 230,
+    "name": "Doomsday",
+    "slug": "230-doomsday",
+    "work": {
+      "occupation": "Destroyer",
+      "base": "-"
+    }
+  },
+  {
+    "id": 231,
+    "name": "Doppelganger",
+    "slug": "231-doppelganger",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 232,
+    "name": "Dormammu",
+    "slug": "232-dormammu",
+    "work": {
+      "occupation": "Despot, conqueror",
+      "base": "-"
+    }
+  },
+  {
+    "id": 233,
+    "name": "Dr Manhattan",
+    "slug": "233-dr-manhattan",
+    "work": {
+      "occupation": "Scientist",
+      "base": "New York City; formerly Mars"
+    }
+  },
+  {
+    "id": 234,
+    "name": "Drax the Destroyer",
+    "slug": "234-drax-the-destroyer",
+    "work": {
+      "occupation": "-",
+      "base": "C.I.T.T.; formerly Monster Isle and Titan"
+    }
+  },
+  {
+    "id": 235,
+    "name": "Ego",
+    "slug": "235-ego",
+    "work": {
+      "occupation": "Inapplicable",
+      "base": "Mobile"
+    }
+  },
+  {
+    "id": 236,
+    "name": "Elastigirl",
+    "slug": "236-elastigirl",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 237,
+    "name": "Electro",
+    "slug": "237-electro",
+    "work": {
+      "occupation": "Professional criminal",
+      "base": "-"
+    }
+  },
+  {
+    "id": 238,
+    "name": "Elektra",
+    "slug": "238-elektra",
+    "work": {
+      "occupation": "Assassin, adventurer, mercenary, former student, dancer",
+      "base": "-"
+    }
+  },
+  {
+    "id": 239,
+    "name": "Elle Bishop",
+    "slug": "239-elle-bishop",
+    "work": {
+      "occupation": "Agent of the Company",
+      "base": "-"
+    }
+  },
+  {
+    "id": 240,
+    "name": "Elongated Man",
+    "slug": "240-elongated-man",
+    "work": {
+      "occupation": "Detective",
+      "base": "Opal City, Central City"
+    }
+  },
+  {
+    "id": 241,
+    "name": "Emma Frost",
+    "slug": "241-emma-frost",
+    "work": {
+      "occupation": "-",
+      "base": "(current) Emma Frost operates from the Massachusetts Academy, Snow Valley, Massachusetts, (former) Hellfire Club mansion in New York City, a home in the Berkshire Mountains in Massachusetts (near the Massachusetts Academy), and places of residence in vari"
+    }
+  },
+  {
+    "id": 242,
+    "name": "Enchantress",
+    "slug": "242-enchantress",
+    "work": {
+      "occupation": "Artist; Magician",
+      "base": "-"
+    }
+  },
+  {
+    "id": 245,
+    "name": "Ethan Hunt",
+    "slug": "245-ethan-hunt",
+    "work": {
+      "occupation": "IMF Agent, Training Officer (former), Field Agent, Field Team Leader",
+      "base": "-"
+    }
+  },
+  {
+    "id": 246,
+    "name": "Etrigan",
+    "slug": "246-etrigan",
+    "work": {
+      "occupation": "-",
+      "base": "Hell"
+    }
+  },
+  {
+    "id": 247,
+    "name": "Evil Deadpool",
+    "slug": "247-evil-deadpool",
+    "work": {
+      "occupation": "Mercenary, Assasin",
+      "base": "-"
+    }
+  },
+  {
+    "id": 248,
+    "name": "Evilhawk",
+    "slug": "248-evilhawk",
+    "work": {
+      "occupation": "Crimelord",
+      "base": "(Formerly) planet Luq"
+    }
+  },
+  {
+    "id": 249,
+    "name": "Exodus",
+    "slug": "249-exodus",
+    "work": {
+      "occupation": "Terrorist, would-be conqueror, Former leader of the Acolytes, Crusader",
+      "base": "Currently mobile, Formerly Avalon"
+    }
+  },
+  {
+    "id": 251,
+    "name": "Falcon",
+    "slug": "251-falcon",
+    "work": {
+      "occupation": "Crimefighter, (former) freelance artist",
+      "base": "New York, New York; formerly Avengers Mansion, New York City, New York; S.H.I.E.L.D. Helicarrier."
+    }
+  },
+  {
+    "id": 252,
+    "name": "Fallen One II",
+    "slug": "252-fallen-one-ii",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 253,
+    "name": "Faora",
+    "slug": "253-faora",
+    "work": {
+      "occupation": "Serial killer",
+      "base": "Phantom Zone; formerly Krypton"
+    }
+  },
+  {
+    "id": 254,
+    "name": "Feral",
+    "slug": "254-feral",
+    "work": {
+      "occupation": "Formerly Adventurer, Terrorist",
+      "base": "Base of operations unknown"
+    }
+  },
+  {
+    "id": 256,
+    "name": "Fin Fang Foom",
+    "slug": "256-fin-fang-foom",
+    "work": {
+      "occupation": "-",
+      "base": "New York, formerly Valley of the Sleeping Dragon in China"
+    }
+  },
+  {
+    "id": 257,
+    "name": "Firebird",
+    "slug": "257-firebird",
+    "work": {
+      "occupation": "Social worker, adventurer",
+      "base": "New Mexico"
+    }
+  },
+  {
+    "id": 258,
+    "name": "Firelord",
+    "slug": "258-firelord",
+    "work": {
+      "occupation": "Former starship captain, former herald of Galactus",
+      "base": "Mobile; usually in space"
+    }
+  },
+  {
+    "id": 259,
+    "name": "Firestar",
+    "slug": "259-firestar",
+    "work": {
+      "occupation": "Student",
+      "base": "New Warriors Crash Pad, New York City, New York State; Avengers Mansion, New York City, New York State; and formerly Massachusetts Academy, Snow Valley, Massachusetts"
+    }
+  },
+  {
+    "id": 260,
+    "name": "Firestorm",
+    "slug": "260-firestorm",
+    "work": {
+      "occupation": "University student; former food server at Bryson's Family Treat; former mascot at Ho-Ho Charlie's Chicken Shack; former intern at S.T.A.R. Labs",
+      "base": "Detroit, Michigan"
+    }
+  },
+  {
+    "id": 261,
+    "name": "Firestorm",
+    "slug": "261-firestorm",
+    "work": {
+      "occupation": "Adventurer; former employee of Bun 'n Run",
+      "base": "Formerly Manhattan, New York City; Ivy University, Ivy Town; Pittsburgh, Pennsylvania"
+    }
+  },
+  {
+    "id": 263,
+    "name": "Flash",
+    "slug": "263-flash",
+    "work": {
+      "occupation": "Research Scientist, part-time Director of Garrick Laboratories",
+      "base": "Keystone City, Kansas"
+    }
+  },
+  {
+    "id": 265,
+    "name": "Flash II",
+    "slug": "265-flash-ii",
+    "work": {
+      "occupation": "Forensic Scientist",
+      "base": "Central City, Missouri"
+    }
+  },
+  {
+    "id": 266,
+    "name": "Flash III",
+    "slug": "266-flash-iii",
+    "work": {
+      "occupation": "Adventurer, Mechanic for the KCPD",
+      "base": "Keystone City, Kansas"
+    }
+  },
+  {
+    "id": 267,
+    "name": "Flash IV",
+    "slug": "267-flash-iv",
+    "work": {
+      "occupation": "Police trainee",
+      "base": "Los Angeles, California (previously Manchester, Alabama, briefly Denver, Colorado, then Keystone City, Kansas)"
+    }
+  },
+  {
+    "id": 268,
+    "name": "Forge",
+    "slug": "268-forge",
+    "work": {
+      "occupation": "Inventor working for the U.S. government, former soldier",
+      "base": "Arlington, Virginia"
+    }
+  },
+  {
+    "id": 269,
+    "name": "Franklin Richards",
+    "slug": "269-franklin-richards",
+    "work": {
+      "occupation": "Student",
+      "base": "Baxter Building, New York, New York (formerly) Four Freedoms Plaza; Pier 4; Massachusetts Academy"
+    }
+  },
+  {
+    "id": 270,
+    "name": "Franklin Storm",
+    "slug": "270-franklin-storm",
+    "work": {
+      "occupation": "Surgeon",
+      "base": "Inapplicable"
+    }
+  },
+  {
+    "id": 271,
+    "name": "Frenzy",
+    "slug": "271-frenzy",
+    "work": {
+      "occupation": "Mercenary",
+      "base": "Mobile; formerly Avalon in Earth orbit; Genosha; California"
+    }
+  },
+  {
+    "id": 273,
+    "name": "Galactus",
+    "slug": "273-galactus",
+    "work": {
+      "occupation": "Planet Devourer, Third Force of the Universe - balance between Eternity and Death, Nullifying Abraxas' Influence on the Multiverse, Third Face of the Living Tribunal - representing Equity",
+      "base": "Worldship (aka Taa II); though he is generally mobile throughout the universe via his spherical starship in search of suitable planets to consume."
+    }
+  },
+  {
+    "id": 274,
+    "name": "Gambit",
+    "slug": "274-gambit",
+    "work": {
+      "occupation": "Jean Grey School for Higher Learning, Salem Center, Westchester County, New York; formerly Utopia, San Francisco Bay, California; Xavier Institute, Salem Center, Westchester County, New York; New Orleans; Paris; Cairo; Illinois",
+      "base": "(current) Xavier Institute, Salem Center, Westchester County, New York; (former) New Orleans, Louisiana; Paris, France; Cairo, Illinois;"
+    }
+  },
+  {
+    "id": 275,
+    "name": "Gamora",
+    "slug": "275-gamora",
+    "work": {
+      "occupation": "Assassin, mercenary, adventurer",
+      "base": "C.I.T.T.; formerly Godthab Omega, Monster Island, Sanctuary II and the pocket-dimension within the Soul Gem; Earth-7528"
+    }
+  },
+  {
+    "id": 277,
+    "name": "Gary Bell",
+    "slug": "277-gary-bell",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 278,
+    "name": "General Zod",
+    "slug": "278-general-zod",
+    "work": {
+      "occupation": "-",
+      "base": "Formerly Krypton; formerly the Phantom Zone; currently Earth"
+    }
+  },
+  {
+    "id": 280,
+    "name": "Ghost Rider",
+    "slug": "280-ghost-rider",
+    "work": {
+      "occupation": "Former stunt motorcyclist",
+      "base": "Mobile, Quentin Carnival"
+    }
+  },
+  {
+    "id": 284,
+    "name": "Giganta",
+    "slug": "284-giganta",
+    "work": {
+      "occupation": "Criminal, former Scientist, Professor at Ivy University",
+      "base": "Ivy Town"
+    }
+  },
+  {
+    "id": 285,
+    "name": "Gladiator",
+    "slug": "285-gladiator",
+    "work": {
+      "occupation": "Majestor of the Shi'ar Empire; Former Praetor of the Imperial Guard; possibly former Herald of Galactus",
+      "base": "Chandilar, Shi'ar Galaxy; mobile throughout the Shi'ar Empire and surrounding galaxies."
+    }
+  },
+  {
+    "id": 286,
+    "name": "Goblin Queen",
+    "slug": "286-goblin-queen",
+    "work": {
+      "occupation": "-",
+      "base": "Mobile; formerly Anchorage, Alaska; Reaver Base, Australian Outback, Australia; Empire State Building, New York, New York"
+    }
+  },
+  {
+    "id": 287,
+    "name": "Godzilla",
+    "slug": "287-godzilla",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 288,
+    "name": "Gog",
+    "slug": "288-gog",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 289,
+    "name": "Goku",
+    "slug": "289-goku",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 294,
+    "name": "Gorilla Grodd",
+    "slug": "294-gorilla-grodd",
+    "work": {
+      "occupation": "-",
+      "base": "Gorilla City, Africa"
+    }
+  },
+  {
+    "id": 296,
+    "name": "Gravity",
+    "slug": "296-gravity",
+    "work": {
+      "occupation": "Student",
+      "base": "New York City"
+    }
+  },
+  {
+    "id": 297,
+    "name": "Greedo",
+    "slug": "297-greedo",
+    "work": {
+      "occupation": "Bounty Hunter",
+      "base": "-"
+    }
+  },
+  {
+    "id": 298,
+    "name": "Green Arrow",
+    "slug": "298-green-arrow",
+    "work": {
+      "occupation": "Professional Crime-fighter; Multi-Billionaire",
+      "base": "Star City, California; Formerly Seattle, Washington"
+    }
+  },
+  {
+    "id": 299,
+    "name": "Green Goblin",
+    "slug": "299-green-goblin",
+    "work": {
+      "occupation": "Professional criminal, owner and president of Osborn Industries",
+      "base": "H.A.M.M.E.R. base; formerly Avengers Tower, New York City, New York"
+    }
+  },
+  {
+    "id": 300,
+    "name": "Green Goblin II",
+    "slug": "300-green-goblin-ii",
+    "work": {
+      "occupation": "-",
+      "base": "Formerly New York City"
+    }
+  },
+  {
+    "id": 303,
+    "name": "Groot",
+    "slug": "303-groot",
+    "work": {
+      "occupation": "-",
+      "base": "Area 13 (the Howling Commandos' base)"
+    }
+  },
+  {
+    "id": 305,
+    "name": "Guy Gardner",
+    "slug": "305-guy-gardner",
+    "work": {
+      "occupation": "Former High School gym teacher; former bar owner; currently Honor guard of the Green Lantern Corps",
+      "base": "Formerly New York City; currently Oa"
+    }
+  },
+  {
+    "id": 306,
+    "name": "Hal Jordan",
+    "slug": "306-hal-jordan",
+    "work": {
+      "occupation": "Adventurer, Air Force Test Pilot",
+      "base": "-"
+    }
+  },
+  {
+    "id": 307,
+    "name": "Han Solo",
+    "slug": "307-han-solo",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 308,
+    "name": "Hancock",
+    "slug": "308-hancock",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 309,
+    "name": "Harley Quinn",
+    "slug": "309-harley-quinn",
+    "work": {
+      "occupation": "Psychiatrist",
+      "base": "Gotham City"
+    }
+  },
+  {
+    "id": 310,
+    "name": "Harry Potter",
+    "slug": "310-harry-potter",
+    "work": {
+      "occupation": "Head of the Department of Magical Law Enforcement[",
+      "base": "-"
+    }
+  },
+  {
+    "id": 311,
+    "name": "Havok",
+    "slug": "311-havok",
+    "work": {
+      "occupation": "Currently Adventurer, formerly Graduate student in geophysics",
+      "base": "Alexandria, Virginia"
+    }
+  },
+  {
+    "id": 312,
+    "name": "Hawk",
+    "slug": "312-hawk",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 313,
+    "name": "Hawkeye",
+    "slug": "313-hawkeye",
+    "work": {
+      "occupation": "Adventurer",
+      "base": "-"
+    }
+  },
+  {
+    "id": 314,
+    "name": "Hawkeye II",
+    "slug": "314-hawkeye-ii",
+    "work": {
+      "occupation": "Student; Adventurer; Fugitive",
+      "base": "Bishop Publishing, New York City, New York"
+    }
+  },
+  {
+    "id": 315,
+    "name": "Hawkgirl",
+    "slug": "315-hawkgirl",
+    "work": {
+      "occupation": "Adventurer, Film School Student, Temp Curator of the Stonechat Museum",
+      "base": "St. Roch, Louisiana, JLA Watchtower; formerly Manhattan, New York (as a member of the JSA)"
+    }
+  },
+  {
+    "id": 320,
+    "name": "Heat Wave",
+    "slug": "320-heat-wave",
+    "work": {
+      "occupation": "Professional Criminal",
+      "base": "Central City"
+    }
+  },
+  {
+    "id": 321,
+    "name": "Hela",
+    "slug": "321-hela",
+    "work": {
+      "occupation": "Asgardian Goddess of Death, former Ruler of Hel and Niffleheim",
+      "base": "-"
+    }
+  },
+  {
+    "id": 322,
+    "name": "Hellboy",
+    "slug": "322-hellboy",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 323,
+    "name": "Hellcat",
+    "slug": "323-hellcat",
+    "work": {
+      "occupation": "Housemaker, model, adventurer, supernatural investigator",
+      "base": "San Francisco, CA USA"
+    }
+  },
+  {
+    "id": 325,
+    "name": "Hercules",
+    "slug": "325-hercules",
+    "work": {
+      "occupation": "Adventurer, Olympian God of Strength and Labor, later Olympian God of Heroes",
+      "base": "Brooklyn; formerly Infinite Avengers Mansion, Mount Olympus, Avengers Mansion, Hydrobase"
+    }
+  },
+  {
+    "id": 327,
+    "name": "Hit-Girl",
+    "slug": "327-hit-girl",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 330,
+    "name": "Hope Summers",
+    "slug": "330-hope-summers",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 332,
+    "name": "Hulk",
+    "slug": "332-hulk",
+    "work": {
+      "occupation": "Nuclear physicist, Agent of S.H.I.E.L.D.",
+      "base": "(Banner) Hulkbuster Base, New Mexico, (Hulk) mobile, but prefers New Mexico"
+    }
+  },
+  {
+    "id": 333,
+    "name": "Human Torch",
+    "slug": "333-human-torch",
+    "work": {
+      "occupation": "Adventurer",
+      "base": "Pier Four, New York City"
+    }
+  },
+  {
+    "id": 334,
+    "name": "Huntress",
+    "slug": "334-huntress",
+    "work": {
+      "occupation": "Vigilante; High school English teacher",
+      "base": "Mobile; primarily Gotham City and Metropolis"
+    }
+  },
+  {
+    "id": 335,
+    "name": "Husk",
+    "slug": "335-husk",
+    "work": {
+      "occupation": "Adventurer; formerly student, activist",
+      "base": "Base of operations unknown; formerly Xavier Institute, Salem Center, Westchester County, New York"
+    }
+  },
+  {
+    "id": 336,
+    "name": "Hybrid",
+    "slug": "336-hybrid",
+    "work": {
+      "occupation": "-",
+      "base": "Bedford-Stuyvesant, Brooklyn, New York City, New York"
+    }
+  },
+  {
+    "id": 337,
+    "name": "Hydro-Man",
+    "slug": "337-hydro-man",
+    "work": {
+      "occupation": "Professional Criminal; former crewman of cargo ship",
+      "base": "-"
+    }
+  },
+  {
+    "id": 338,
+    "name": "Hyperion",
+    "slug": "338-hyperion",
+    "work": {
+      "occupation": "Adventurer; (Formerly) Cartoonist, government agent",
+      "base": "-"
+    }
+  },
+  {
+    "id": 339,
+    "name": "Iceman",
+    "slug": "339-iceman",
+    "work": {
+      "occupation": "Adventurer, formerly teacher, accountant, student",
+      "base": "-"
+    }
+  },
+  {
+    "id": 340,
+    "name": "Impulse",
+    "slug": "340-impulse",
+    "work": {
+      "occupation": "Adventurer, Student",
+      "base": "San Francisco, formerly Los Angeles, Keystone City, Manchester, Alabama"
+    }
+  },
+  {
+    "id": 341,
+    "name": "Indiana Jones",
+    "slug": "341-indiana-jones",
+    "work": {
+      "occupation": "Archaeologist",
+      "base": "-"
+    }
+  },
+  {
+    "id": 342,
+    "name": "Indigo",
+    "slug": "342-indigo",
+    "work": {
+      "occupation": "Leader of the Indigo Tribe",
+      "base": "-"
+    }
+  },
+  {
+    "id": 343,
+    "name": "Ink",
+    "slug": "343-ink",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 344,
+    "name": "Invisible Woman",
+    "slug": "344-invisible-woman",
+    "work": {
+      "occupation": "Member of the Fantastic Four, financial manager for Fantastic Four Inc, occasional model and actress",
+      "base": "Pier Four, New York City"
+    }
+  },
+  {
+    "id": 345,
+    "name": "Iron Fist",
+    "slug": "345-iron-fist",
+    "work": {
+      "occupation": "Adventurer; formerly co-owner of Rand-Meachum, Inc., bodyguard, private investigator, research assistant, warrior",
+      "base": "New York"
+    }
+  },
+  {
+    "id": 346,
+    "name": "Iron Man",
+    "slug": "346-iron-man",
+    "work": {
+      "occupation": "Inventor, Industrialist; former United States Secretary of Defense",
+      "base": "Seattle, Washington"
+    }
+  },
+  {
+    "id": 347,
+    "name": "Iron Monger",
+    "slug": "347-iron-monger",
+    "work": {
+      "occupation": "CEO Stane International",
+      "base": "-"
+    }
+  },
+  {
+    "id": 348,
+    "name": "Isis",
+    "slug": "348-isis",
+    "work": {
+      "occupation": "Adventurer, formerly First Lady of Kahndaq, former slave",
+      "base": "Shiruta, Kahndaq"
+    }
+  },
+  {
+    "id": 350,
+    "name": "Jack of Hearts",
+    "slug": "350-jack-of-hearts",
+    "work": {
+      "occupation": "Adventurer",
+      "base": "Avengers Mansion"
+    }
+  },
+  {
+    "id": 351,
+    "name": "Jack-Jack",
+    "slug": "351-jack-jack",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 352,
+    "name": "James Bond",
+    "slug": "352-james-bond",
+    "work": {
+      "occupation": "00 Agent",
+      "base": "London"
+    }
+  },
+  {
+    "id": 353,
+    "name": "James T. Kirk",
+    "slug": "353-james-t.-kirk",
+    "work": {
+      "occupation": "Captain",
+      "base": "-"
+    }
+  },
+  {
+    "id": 354,
+    "name": "Jar Jar Binks",
+    "slug": "354-jar-jar-binks",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 355,
+    "name": "Jason Bourne",
+    "slug": "355-jason-bourne",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 356,
+    "name": "Jean Grey",
+    "slug": "356-jean-grey",
+    "work": {
+      "occupation": "Adventurer",
+      "base": "Xavier Institute of Higher Learning, Westchester County, New York"
+    }
+  },
+  {
+    "id": 357,
+    "name": "Jean-Luc Picard",
+    "slug": "357-jean-luc-picard",
+    "work": {
+      "occupation": "Commanding officer USS Enterprise (NCC-1701-E)",
+      "base": "-"
+    }
+  },
+  {
+    "id": 358,
+    "name": "Jennifer Kale",
+    "slug": "358-jennifer-kale",
+    "work": {
+      "occupation": "Sorceress, student",
+      "base": "-"
+    }
+  },
+  {
+    "id": 360,
+    "name": "Jessica Cruz",
+    "slug": "360-jessica-cruz",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 361,
+    "name": "Jessica Jones",
+    "slug": "361-jessica-jones",
+    "work": {
+      "occupation": "Special Consultant to \"The Pulse\", a Daily Bugle supplement; formerly private investigator, adventurer, short-time vigilante",
+      "base": "-"
+    }
+  },
+  {
+    "id": 364,
+    "name": "Jim Powell",
+    "slug": "364-jim-powell",
+    "work": {
+      "occupation": "Police Sketch Artist",
+      "base": "-"
+    }
+  },
+  {
+    "id": 365,
+    "name": "JJ Powell",
+    "slug": "365-jj-powell",
+    "work": {
+      "occupation": "Student",
+      "base": "-"
+    }
+  },
+  {
+    "id": 367,
+    "name": "John Constantine",
+    "slug": "367-john-constantine",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 369,
+    "name": "John Wraith",
+    "slug": "369-john-wraith",
+    "work": {
+      "occupation": "Former Spy, Government Operative, Mercenary, Soldier",
+      "base": "-"
+    }
+  },
+  {
+    "id": 370,
+    "name": "Joker",
+    "slug": "370-joker",
+    "work": {
+      "occupation": "-",
+      "base": "Arkham Asylum, Gotham City; Ha-Hacienda"
+    }
+  },
+  {
+    "id": 371,
+    "name": "Jolt",
+    "slug": "371-jolt",
+    "work": {
+      "occupation": "Adventurer",
+      "base": "-"
+    }
+  },
+  {
+    "id": 372,
+    "name": "Jubilee",
+    "slug": "372-jubilee",
+    "work": {
+      "occupation": "Student, Adventurer",
+      "base": "Xavier Institute, Salem Center, Westchester County, New York"
+    }
+  },
+  {
+    "id": 373,
+    "name": "Judge Dredd",
+    "slug": "373-judge-dredd",
+    "work": {
+      "occupation": "Mega-City Judge",
+      "base": "Mega City One"
+    }
+  },
+  {
+    "id": 374,
+    "name": "Juggernaut",
+    "slug": "374-juggernaut",
+    "work": {
+      "occupation": "Adventurer formerly Professional criminal, mercenary, soldier",
+      "base": "-"
+    }
+  },
+  {
+    "id": 375,
+    "name": "Junkpile",
+    "slug": "375-junkpile",
+    "work": {
+      "occupation": "Mercenary; Former member of S.H.I.E.L.D.",
+      "base": "-"
+    }
+  },
+  {
+    "id": 376,
+    "name": "Justice",
+    "slug": "376-justice",
+    "work": {
+      "occupation": "Adventurer",
+      "base": "Mobile, formerly New Warriors and Avengers Headquarters, Camp Hammond"
+    }
+  },
+  {
+    "id": 379,
+    "name": "Kang",
+    "slug": "379-kang",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 380,
+    "name": "Kathryn Janeway",
+    "slug": "380-kathryn-janeway",
+    "work": {
+      "occupation": "Fleet Commander",
+      "base": "-"
+    }
+  },
+  {
+    "id": 381,
+    "name": "Katniss Everdeen",
+    "slug": "381-katniss-everdeen",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 382,
+    "name": "Kevin 11",
+    "slug": "382-kevin-11",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 383,
+    "name": "Kick-Ass",
+    "slug": "383-kick-ass",
+    "work": {
+      "occupation": "Student",
+      "base": "-"
+    }
+  },
+  {
+    "id": 384,
+    "name": "Kid Flash",
+    "slug": "384-kid-flash",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 386,
+    "name": "Killer Croc",
+    "slug": "386-killer-croc",
+    "work": {
+      "occupation": "-",
+      "base": "Gotham City"
+    }
+  },
+  {
+    "id": 387,
+    "name": "Killer Frost",
+    "slug": "387-killer-frost",
+    "work": {
+      "occupation": "Scientist",
+      "base": "Pittsburgh"
+    }
+  },
+  {
+    "id": 388,
+    "name": "Kilowog",
+    "slug": "388-kilowog",
+    "work": {
+      "occupation": "-",
+      "base": "Oa, formerly Earth, Bolovax Vik"
+    }
+  },
+  {
+    "id": 389,
+    "name": "King Kong",
+    "slug": "389-king-kong",
+    "work": {
+      "occupation": "-",
+      "base": "Skull Island"
+    }
+  },
+  {
+    "id": 390,
+    "name": "King Shark",
+    "slug": "390-king-shark",
+    "work": {
+      "occupation": "Professional Criminal",
+      "base": "Honolulu, Hawaii"
+    }
+  },
+  {
+    "id": 391,
+    "name": "Kingpin",
+    "slug": "391-kingpin",
+    "work": {
+      "occupation": "Criminal organizer and mastermind, president and owner of legitimate businesses",
+      "base": "A penthouse in New York City; formerly Fisk Tower in New York City, a mansion in Westchester County, Las Vegas."
+    }
+  },
+  {
+    "id": 392,
+    "name": "Klaw",
+    "slug": "392-klaw",
+    "work": {
+      "occupation": "Criminal, former Scientist",
+      "base": "-"
+    }
+  },
+  {
+    "id": 393,
+    "name": "Kool-Aid Man",
+    "slug": "393-kool-aid-man",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 394,
+    "name": "Kraven II",
+    "slug": "394-kraven-ii",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 395,
+    "name": "Kraven the Hunter",
+    "slug": "395-kraven-the-hunter",
+    "work": {
+      "occupation": "Professional game hunter, mercenary",
+      "base": "-"
+    }
+  },
+  {
+    "id": 396,
+    "name": "Krypto",
+    "slug": "396-krypto",
+    "work": {
+      "occupation": "-",
+      "base": "Smallville, Kansas"
+    }
+  },
+  {
+    "id": 397,
+    "name": "Kyle Rayner",
+    "slug": "397-kyle-rayner",
+    "work": {
+      "occupation": "Green Lantern, Adventurer, Artist",
+      "base": "Oa,formerly New York City, Los Angeles"
+    }
+  },
+  {
+    "id": 398,
+    "name": "Kylo Ren",
+    "slug": "398-kylo-ren",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 400,
+    "name": "Lady Deathstrike",
+    "slug": "400-lady-deathstrike",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 401,
+    "name": "Leader",
+    "slug": "401-leader",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 402,
+    "name": "Leech",
+    "slug": "402-leech",
+    "work": {
+      "occupation": "Survivor, former student",
+      "base": "-"
+    }
+  },
+  {
+    "id": 403,
+    "name": "Legion",
+    "slug": "403-legion",
+    "work": {
+      "occupation": "Adventurer, Student",
+      "base": "formerly Ruth Aldine's mind, Utopia, San Francisco Bay, California; Westcliffe, Colorado; \"No-Time\"; Moira MacTaggart's Mutant Research Center, Muir Island, off the coast of Scotland; Haifa; Paris, France"
+    }
+  },
+  {
+    "id": 404,
+    "name": "Leonardo",
+    "slug": "404-leonardo",
+    "work": {
+      "occupation": "Ninja",
+      "base": "New York, New York"
+    }
+  },
+  {
+    "id": 405,
+    "name": "Lex Luthor",
+    "slug": "405-lex-luthor",
+    "work": {
+      "occupation": "Owner of LexCorp",
+      "base": "-"
+    }
+  },
+  {
+    "id": 406,
+    "name": "Light Lass",
+    "slug": "406-light-lass",
+    "work": {
+      "occupation": "-",
+      "base": "United Planets"
+    }
+  },
+  {
+    "id": 407,
+    "name": "Lightning Lad",
+    "slug": "407-lightning-lad",
+    "work": {
+      "occupation": "Legionnaire",
+      "base": "Earth, 31st century"
+    }
+  },
+  {
+    "id": 408,
+    "name": "Lightning Lord",
+    "slug": "408-lightning-lord",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 409,
+    "name": "Living Brain",
+    "slug": "409-living-brain",
+    "work": {
+      "occupation": "Robot",
+      "base": "-"
+    }
+  },
+  {
+    "id": 410,
+    "name": "Living Tribunal",
+    "slug": "410-living-tribunal",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 412,
+    "name": "Lizard",
+    "slug": "412-lizard",
+    "work": {
+      "occupation": "Research biologist",
+      "base": "Florida"
+    }
+  },
+  {
+    "id": 413,
+    "name": "Lobo",
+    "slug": "413-lobo",
+    "work": {
+      "occupation": "Assassin, Bounty Hunter, Priest",
+      "base": "Mobile throughout several galaxies"
+    }
+  },
+  {
+    "id": 414,
+    "name": "Loki",
+    "slug": "414-loki",
+    "work": {
+      "occupation": "God of evil; former god of mischief and madness",
+      "base": "Asgard"
+    }
+  },
+  {
+    "id": 415,
+    "name": "Longshot",
+    "slug": "415-longshot",
+    "work": {
+      "occupation": "freedom fighter, stuntman rebel, adventurer",
+      "base": "X-Factor Investigations Headquarters, New York City, New York; formerly Detroit, Michigan; mobile; Xavier's School for Gifted Youngsters, Salem Center, Westchester County, New York; Mojoverse; Cooterman's Creek, Australian Outback, Australia; Alcatraz I"
+    }
+  },
+  {
+    "id": 416,
+    "name": "Luke Cage",
+    "slug": "416-luke-cage",
+    "work": {
+      "occupation": "Adventurer, bar owner, bodyguard, mercenary; formerly theater owner, private investigator, various odd jobs",
+      "base": "-"
+    }
+  },
+  {
+    "id": 418,
+    "name": "Luke Skywalker",
+    "slug": "418-luke-skywalker",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 419,
+    "name": "Luna",
+    "slug": "419-luna",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 421,
+    "name": "Mach-IV",
+    "slug": "421-mach-iv",
+    "work": {
+      "occupation": "Adventurer; former master mechanic, professional criminal, mercenary",
+      "base": "-"
+    }
+  },
+  {
+    "id": 422,
+    "name": "Machine Man",
+    "slug": "422-machine-man",
+    "work": {
+      "occupation": "Insurance Investigator",
+      "base": "Garvin's Garage, Queens, New York"
+    }
+  },
+  {
+    "id": 423,
+    "name": "Magneto",
+    "slug": "423-magneto",
+    "work": {
+      "occupation": "Currently Revolutionary and Conqueror, formerly Volunteer Orderly, Secret Agent",
+      "base": "Currently unrevealed, formerly Asteroid M; various hidden bases on Earth including one in Antarctica; an island in the Bermuda Triangle; Professor Xavier's School for Gifted Youngsters, Salem Center, Westchester County, New York"
+    }
+  },
+  {
+    "id": 424,
+    "name": "Magog",
+    "slug": "424-magog",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 425,
+    "name": "Magus",
+    "slug": "425-magus",
+    "work": {
+      "occupation": "Ruler of the Technarchy",
+      "base": "-"
+    }
+  },
+  {
+    "id": 426,
+    "name": "Man of Miracles",
+    "slug": "426-man-of-miracles",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 427,
+    "name": "Man-Bat",
+    "slug": "427-man-bat",
+    "work": {
+      "occupation": "Zoologist",
+      "base": "Gotham City"
+    }
+  },
+  {
+    "id": 428,
+    "name": "Man-Thing",
+    "slug": "428-man-thing",
+    "work": {
+      "occupation": "-",
+      "base": "Man-Thing's Swamp, Citrusville, Florida"
+    }
+  },
+  {
+    "id": 429,
+    "name": "Man-Wolf",
+    "slug": "429-man-wolf",
+    "work": {
+      "occupation": "Employed by Dept. of Social Services, Queens; former astronaut, test pilot, security chief for Ravenscroft Institute",
+      "base": "Queens"
+    }
+  },
+  {
+    "id": 430,
+    "name": "Mandarin",
+    "slug": "430-mandarin",
+    "work": {
+      "occupation": "Would-be conqueror; former janitor, businessman and crimelord, government administrator",
+      "base": "Prometheus Corporation; formerly Dragon of Heaven; Palace of the Star Dragon in the Valley of Spirits."
+    }
+  },
+  {
+    "id": 431,
+    "name": "Mantis",
+    "slug": "431-mantis",
+    "work": {
+      "occupation": "Celestial Madonna, former adventuress, former bar-maid/prostitute/exotic dancer",
+      "base": "Mobile"
+    }
+  },
+  {
+    "id": 432,
+    "name": "Martian Manhunter",
+    "slug": "432-martian-manhunter",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 433,
+    "name": "Marvel Girl",
+    "slug": "433-marvel-girl",
+    "work": {
+      "occupation": "Adventurer",
+      "base": "Xavier Institute of Higher Learning, Salem Center, Westchester County, New York (formerly) Braddock Lighthouse, England"
+    }
+  },
+  {
+    "id": 435,
+    "name": "Master Chief",
+    "slug": "435-master-chief",
+    "work": {
+      "occupation": "Master Chief Petty Officer of the Navy",
+      "base": "-"
+    }
+  },
+  {
+    "id": 436,
+    "name": "Match",
+    "slug": "436-match",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 437,
+    "name": "Matt Parkman",
+    "slug": "437-matt-parkman",
+    "work": {
+      "occupation": "NYPD detective",
+      "base": "New York, NY; formerly Los Angeles, CA"
+    }
+  },
+  {
+    "id": 438,
+    "name": "Maverick",
+    "slug": "438-maverick",
+    "work": {
+      "occupation": "Mercenary; former adventurer, student",
+      "base": "-"
+    }
+  },
+  {
+    "id": 439,
+    "name": "Maxima",
+    "slug": "439-maxima",
+    "work": {
+      "occupation": "Adventurer, Queen of the Almerac Empire",
+      "base": "Imperial Royal Palace"
+    }
+  },
+  {
+    "id": 440,
+    "name": "Maya Herrera",
+    "slug": "440-maya-herrera",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 441,
+    "name": "Medusa",
+    "slug": "441-medusa",
+    "work": {
+      "occupation": "Queen, Royal interpreter",
+      "base": "Attilan"
+    }
+  },
+  {
+    "id": 442,
+    "name": "Meltdown",
+    "slug": "442-meltdown",
+    "work": {
+      "occupation": "Adventurer, former student, thief",
+      "base": "-"
+    }
+  },
+  {
+    "id": 443,
+    "name": "Mephisto",
+    "slug": "443-mephisto",
+    "work": {
+      "occupation": "Lord of a realm of Hell",
+      "base": "-"
+    }
+  },
+  {
+    "id": 444,
+    "name": "Mera",
+    "slug": "444-mera",
+    "work": {
+      "occupation": "Former queen of Atlantis; Former queen of Dimension Aqua",
+      "base": "Atlantis"
+    }
+  },
+  {
+    "id": 445,
+    "name": "Metallo",
+    "slug": "445-metallo",
+    "work": {
+      "occupation": "Professional criminal",
+      "base": "Mobile, though he generally operates out of Metropolis"
+    }
+  },
+  {
+    "id": 448,
+    "name": "Metron",
+    "slug": "448-metron",
+    "work": {
+      "occupation": "Scientist, seeker of knowledge",
+      "base": "Supertown, New Genesis"
+    }
+  },
+  {
+    "id": 449,
+    "name": "Micah Sanders",
+    "slug": "449-micah-sanders",
+    "work": {
+      "occupation": "Elementary school student",
+      "base": "New Orleans, LA"
+    }
+  },
+  {
+    "id": 450,
+    "name": "Michelangelo",
+    "slug": "450-michelangelo",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 451,
+    "name": "Micro Lad",
+    "slug": "451-micro-lad",
+    "work": {
+      "occupation": "-",
+      "base": "United Planets, 31st century"
+    }
+  },
+  {
+    "id": 452,
+    "name": "Mimic",
+    "slug": "452-mimic",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 454,
+    "name": "Misfit",
+    "slug": "454-misfit",
+    "work": {
+      "occupation": "-",
+      "base": "Dalten Towers, Metropolis"
+    }
+  },
+  {
+    "id": 455,
+    "name": "Miss Martian",
+    "slug": "455-miss-martian",
+    "work": {
+      "occupation": "Adventurer",
+      "base": "Arizona; San Francisco, California; formerly the Tanami Desert, Australia"
+    }
+  },
+  {
+    "id": 456,
+    "name": "Mister Fantastic",
+    "slug": "456-mister-fantastic",
+    "work": {
+      "occupation": "Scientist, adventurer",
+      "base": "New York City"
+    }
+  },
+  {
+    "id": 457,
+    "name": "Mister Freeze",
+    "slug": "457-mister-freeze",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 458,
+    "name": "Mister Knife",
+    "slug": "458-mister-knife",
+    "work": {
+      "occupation": "Crimelord; former emperor, prince",
+      "base": "Formerly Spartax, Spartoi Empire, near the Shi'ar Galaxy"
+    }
+  },
+  {
+    "id": 459,
+    "name": "Mister Mxyzptlk",
+    "slug": "459-mister-mxyzptlk",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 460,
+    "name": "Mister Sinister",
+    "slug": "460-mister-sinister",
+    "work": {
+      "occupation": "Geneticist, Criminal, biologist and mutant-supremacist",
+      "base": "Many bases throughout the world including his State Home for Foundlings and the Center for Homo Superior Medical Care."
+    }
+  },
+  {
+    "id": 461,
+    "name": "Mister Zsasz",
+    "slug": "461-mister-zsasz",
+    "work": {
+      "occupation": "Serial Killer",
+      "base": "-"
+    }
+  },
+  {
+    "id": 462,
+    "name": "Mockingbird",
+    "slug": "462-mockingbird",
+    "work": {
+      "occupation": "Adventurer; former counter-terrorist agent, private investigator, government operative, S.H.I.E.L.D. agent, biologist",
+      "base": "New York City, New York"
+    }
+  },
+  {
+    "id": 463,
+    "name": "MODOK",
+    "slug": "463-modok",
+    "work": {
+      "occupation": "Would-be conqueror, AIM leader, terrorist; former AIM agent, technician",
+      "base": "-"
+    }
+  },
+  {
+    "id": 467,
+    "name": "Molten Man",
+    "slug": "467-molten-man",
+    "work": {
+      "occupation": "Security guard for Osborn industries, former criminal, lab assistant",
+      "base": "-"
+    }
+  },
+  {
+    "id": 469,
+    "name": "Monica Dawson",
+    "slug": "469-monica-dawson",
+    "work": {
+      "occupation": "Fast food service",
+      "base": "New Orleans, LA"
+    }
+  },
+  {
+    "id": 470,
+    "name": "Moon Knight",
+    "slug": "470-moon-knight",
+    "work": {
+      "occupation": "Adventurer, entrepreneur; former prize fighter, spy, soldier, mercenary, cab driver",
+      "base": "New York City; formerly Spector Mansion, Long Island, Avengers Compound, California"
+    }
+  },
+  {
+    "id": 471,
+    "name": "Moonstone",
+    "slug": "471-moonstone",
+    "work": {
+      "occupation": "former Adventurer, Psychiatrist",
+      "base": "formerly Mount Charteris; Four Freedoms Plaza"
+    }
+  },
+  {
+    "id": 472,
+    "name": "Morlun",
+    "slug": "472-morlun",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 474,
+    "name": "Moses Magnum",
+    "slug": "474-moses-magnum",
+    "work": {
+      "occupation": "Terrorist, president of Magnum Munitions; former ruler of Canaan",
+      "base": "-"
+    }
+  },
+  {
+    "id": 475,
+    "name": "Mr Immortal",
+    "slug": "475-mr-immortal",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 476,
+    "name": "Mr Incredible",
+    "slug": "476-mr-incredible",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 477,
+    "name": "Ms Marvel II",
+    "slug": "477-ms-marvel-ii",
+    "work": {
+      "occupation": "Wanderer, former adventurer, wrestler, stunt woman, scuba diver, motorcycle performer",
+      "base": "-"
+    }
+  },
+  {
+    "id": 478,
+    "name": "Multiple Man",
+    "slug": "478-multiple-man",
+    "work": {
+      "occupation": "Private investigator (formerly) Farmer, Adventurer",
+      "base": "New York City"
+    }
+  },
+  {
+    "id": 479,
+    "name": "Mysterio",
+    "slug": "479-mysterio",
+    "work": {
+      "occupation": "Criminal; former Hollywood special effects designer and stunt man",
+      "base": "New York City, New York State (Earth-1610) formerly New York City, New York (Earth-616)"
+    }
+  },
+  {
+    "id": 480,
+    "name": "Mystique",
+    "slug": "480-mystique",
+    "work": {
+      "occupation": "Special operative for Germany and the United States governments, (former) German Freedom Fighter, special operative in the Weapon X Project Team",
+      "base": "Arlington, Virginia"
+    }
+  },
+  {
+    "id": 481,
+    "name": "Namor",
+    "slug": "481-namor",
+    "work": {
+      "occupation": "King of Atlantis, Adventurer; former warrior, commando, CEO",
+      "base": "Ultimate Universe; formerly New Atlantis, Utopia, San Francisco Bay, California; Atlantis; Necropolis, Wakanda; occasionally mobile"
+    }
+  },
+  {
+    "id": 483,
+    "name": "Namora",
+    "slug": "483-namora",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 484,
+    "name": "Namorita",
+    "slug": "484-namorita",
+    "work": {
+      "occupation": "Superhero, formerly Leader of Atlantis",
+      "base": "Mobile, formerly New Warriors headquarters and Atlantis"
+    }
+  },
+  {
+    "id": 485,
+    "name": "Naruto Uzumaki",
+    "slug": "485-naruto-uzumaki",
+    "work": {
+      "occupation": "-",
+      "base": "Konohagakure"
+    }
+  },
+  {
+    "id": 487,
+    "name": "Nebula",
+    "slug": "487-nebula",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 488,
+    "name": "Negasonic Teenage Warhead",
+    "slug": "488-negasonic-teenage-warhead",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 489,
+    "name": "Nick Fury",
+    "slug": "489-nick-fury",
+    "work": {
+      "occupation": "S.H.I.E.L.D. director; former S.H.I.E.L.D. agent, intelligence agent, soldier and commando leader, parachuting instructor, stunt flyer",
+      "base": "-"
+    }
+  },
+  {
+    "id": 490,
+    "name": "Nightcrawler",
+    "slug": "490-nightcrawler",
+    "work": {
+      "occupation": "Adventurer, Teacher",
+      "base": "Xavier Institute for Higher Learning, Salem Center, Westchester County, New York (former) Muir Island, Scotland; Braddock Lighthouse"
+    }
+  },
+  {
+    "id": 491,
+    "name": "Nightwing",
+    "slug": "491-nightwing",
+    "work": {
+      "occupation": "Vigilante and detective, former police officer, former Circus Acrobat",
+      "base": "Wayne Tower, Gotham City; formerly the Batcave; formerly Bludhaven; formerly New York City"
+    }
+  },
+  {
+    "id": 492,
+    "name": "Niki Sanders",
+    "slug": "492-niki-sanders",
+    "work": {
+      "occupation": "Former casino worker and online webcam operator; currently an agent of the Company",
+      "base": "Las Vegas, NV"
+    }
+  },
+  {
+    "id": 493,
+    "name": "Nina Theroux",
+    "slug": "493-nina-theroux",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 495,
+    "name": "Northstar",
+    "slug": "495-northstar",
+    "work": {
+      "occupation": "Former terrorist, adventurer, teacher, businessman, novelist, professional skier, trapeze artist, thief",
+      "base": "-"
+    }
+  },
+  {
+    "id": 496,
+    "name": "Nova",
+    "slug": "496-nova",
+    "work": {
+      "occupation": "Superhero, also works parttime at Marvel Burger",
+      "base": "Mobile & Xandar, also formerly New Warriors headquarters"
+    }
+  },
+  {
+    "id": 497,
+    "name": "Nova",
+    "slug": "497-nova",
+    "work": {
+      "occupation": "-",
+      "base": "World-ship of Galactus"
+    }
+  },
+  {
+    "id": 498,
+    "name": "Odin",
+    "slug": "498-odin",
+    "work": {
+      "occupation": "Deity, Monarch of Asgard, Asgardian God of the Sky, Wind, Wisdom, Crafts, Time, and the Dead, Warrior",
+      "base": "City of Asgard, Asgard"
+    }
+  },
+  {
+    "id": 499,
+    "name": "Offspring",
+    "slug": "499-offspring",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 502,
+    "name": "One Punch Man",
+    "slug": "502-one-punch-man",
+    "work": {
+      "occupation": "Superhero, Sensei",
+      "base": "Z-City"
+    }
+  },
+  {
+    "id": 503,
+    "name": "One-Above-All",
+    "slug": "503-one-above-all",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 504,
+    "name": "Onslaught",
+    "slug": "504-onslaught",
+    "work": {
+      "occupation": "Would-be destroyer",
+      "base": "Central Park Citadel, Astral Fortress"
+    }
+  },
+  {
+    "id": 505,
+    "name": "Oracle",
+    "slug": "505-oracle",
+    "work": {
+      "occupation": "Computer hacker and Coordinator of the Birds of Prey; Former student; former librarian; former vigilante",
+      "base": "Metropolis, formerly Gotham City"
+    }
+  },
+  {
+    "id": 506,
+    "name": "Osiris",
+    "slug": "506-osiris",
+    "work": {
+      "occupation": "-",
+      "base": "Shiruta, Kahndaq"
+    }
+  },
+  {
+    "id": 508,
+    "name": "Ozymandias",
+    "slug": "508-ozymandias",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 509,
+    "name": "Parademon",
+    "slug": "509-parademon",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 510,
+    "name": "Paul Blart",
+    "slug": "510-paul-blart",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 514,
+    "name": "Penguin",
+    "slug": "514-penguin",
+    "work": {
+      "occupation": "Trader",
+      "base": "Gotham City"
+    }
+  },
+  {
+    "id": 516,
+    "name": "Phantom Girl",
+    "slug": "516-phantom-girl",
+    "work": {
+      "occupation": "-",
+      "base": "United Planets, Bgztl"
+    }
+  },
+  {
+    "id": 517,
+    "name": "Phoenix",
+    "slug": "517-phoenix",
+    "work": {
+      "occupation": "Adventurer",
+      "base": "Xavier Institute of Higher Learning, Westchester County, New York"
+    }
+  },
+  {
+    "id": 518,
+    "name": "Plantman",
+    "slug": "518-plantman",
+    "work": {
+      "occupation": "Professional Criminal, formerly Gardner",
+      "base": "A submarine somewhere in the Atlantic Ocean, formerly London, United Kingdom"
+    }
+  },
+  {
+    "id": 520,
+    "name": "Plastic Man",
+    "slug": "520-plastic-man",
+    "work": {
+      "occupation": "Government Agent",
+      "base": "-"
+    }
+  },
+  {
+    "id": 521,
+    "name": "Plastique",
+    "slug": "521-plastique",
+    "work": {
+      "occupation": "Government Agent, former Terrorist, Mercenary",
+      "base": "Mobile; formerly Quebec, Canada"
+    }
+  },
+  {
+    "id": 522,
+    "name": "Poison Ivy",
+    "slug": "522-poison-ivy",
+    "work": {
+      "occupation": "Criminal, Botanist",
+      "base": "Gotham City"
+    }
+  },
+  {
+    "id": 523,
+    "name": "Polaris",
+    "slug": "523-polaris",
+    "work": {
+      "occupation": "Adventurer, former U.S. government operative, former graduate student in geophysics",
+      "base": "Serval Industries, Virginia; formerly X-Factor Investigations Headquarters, Starjammer; Xavier Institute for Higher Learning, Salem Center, Westchester County, New York; Genosha; X-Factor HQ, Washington D.C., Maryland; Mutant Research Center, Muir Island;"
+    }
+  },
+  {
+    "id": 524,
+    "name": "Power Girl",
+    "slug": "524-power-girl",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 526,
+    "name": "Predator",
+    "slug": "526-predator",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 527,
+    "name": "Professor X",
+    "slug": "527-professor-x",
+    "work": {
+      "occupation": "Mutant leader, mutant rights activist, geneticist, teacher, adventurer, heir, formerly headmaster, soldier (US Army)",
+      "base": "Formerly Utopia, San Francisco Bay, California; Genosha; Xavier Institute, Salem Center, Westchester County, New York; Imperial Palace, Chandilar, Shi'ar Empire; Columbia University, Manhattan, New York City, New York"
+    }
+  },
+  {
+    "id": 528,
+    "name": "Professor Zoom",
+    "slug": "528-professor-zoom",
+    "work": {
+      "occupation": "-",
+      "base": "Central Cityplex, 25th Century"
+    }
+  },
+  {
+    "id": 529,
+    "name": "Psylocke",
+    "slug": "529-psylocke",
+    "work": {
+      "occupation": "Adventurer, formerly a STRIKE operative, fashion model",
+      "base": "Xavier Institute, Salem Center, Westchester County, New York formerly Braddock Manor, United Kingdom; Australian Outback"
+    }
+  },
+  {
+    "id": 530,
+    "name": "Punisher",
+    "slug": "530-punisher",
+    "work": {
+      "occupation": "Former United States Marine turned professional vigilante",
+      "base": "Mobile, usually in New York City"
+    }
+  },
+  {
+    "id": 531,
+    "name": "Purple Man",
+    "slug": "531-purple-man",
+    "work": {
+      "occupation": "Professional criminal, Megalomaniac, Former spy",
+      "base": "New York City, New York, USA; formerly Canada, Croatia, formerly Yugoslavia"
+    }
+  },
+  {
+    "id": 532,
+    "name": "Pyro",
+    "slug": "532-pyro",
+    "work": {
+      "occupation": "Former government agent, terrorist, bodyguard, novelist, journalist",
+      "base": "-"
+    }
+  },
+  {
+    "id": 533,
+    "name": "Q",
+    "slug": "533-q",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 535,
+    "name": "Question",
+    "slug": "535-question",
+    "work": {
+      "occupation": "Former Television Investigative Journalist",
+      "base": "Hub City; Chicago, Gotham City, Metropolis"
+    }
+  },
+  {
+    "id": 536,
+    "name": "Quicksilver",
+    "slug": "536-quicksilver",
+    "work": {
+      "occupation": "(current) Adventurer, (former) Terrorist, officer of the Inhumans militia, United States government operative",
+      "base": "Currently a castle on the Hudson River in upstate New York that is owned by the High Evolutionary; (former) Transia; Avengers Mansion, Manhattan; Avengers Compound, Palos Verdes, California; X-Factor headquarters, Washington D. C."
+    }
+  },
+  {
+    "id": 537,
+    "name": "Quill",
+    "slug": "537-quill",
+    "work": {
+      "occupation": "-",
+      "base": "X-Mansion"
+    }
+  },
+  {
+    "id": 538,
+    "name": "Ra's Al Ghul",
+    "slug": "538-ras-al-ghul",
+    "work": {
+      "occupation": "Eco Terrorist, Businessman, Cult Leader",
+      "base": "mobile"
+    }
+  },
+  {
+    "id": 539,
+    "name": "Rachel Pirzad",
+    "slug": "539-rachel-pirzad",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 540,
+    "name": "Rambo",
+    "slug": "540-rambo",
+    "work": {
+      "occupation": "United States Army soldier (former)",
+      "base": "-"
+    }
+  },
+  {
+    "id": 541,
+    "name": "Raphael",
+    "slug": "541-raphael",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 542,
+    "name": "Raven",
+    "slug": "542-raven",
+    "work": {
+      "occupation": "Adventurer, high school student",
+      "base": "-"
+    }
+  },
+  {
+    "id": 543,
+    "name": "Ray",
+    "slug": "543-ray",
+    "work": {
+      "occupation": "Freelance Computer Programmer and Software Designer",
+      "base": "Philadelphia, Pennsylvania"
+    }
+  },
+  {
+    "id": 545,
+    "name": "Red Arrow",
+    "slug": "545-red-arrow",
+    "work": {
+      "occupation": "Adventurer; intelligence agent; musician",
+      "base": "The Hall & JLA Watchtower; New York City; formerly Titans Tower, Station Markovia, and Gabriel's Horn"
+    }
+  },
+  {
+    "id": 546,
+    "name": "Red Hood",
+    "slug": "546-red-hood",
+    "work": {
+      "occupation": "Mercenary, Vigilante",
+      "base": "-"
+    }
+  },
+  {
+    "id": 547,
+    "name": "Red Hulk",
+    "slug": "547-red-hulk",
+    "work": {
+      "occupation": "Lieutenant general in US Air Force",
+      "base": "-"
+    }
+  },
+  {
+    "id": 548,
+    "name": "Red Mist",
+    "slug": "548-red-mist",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 549,
+    "name": "Red Robin",
+    "slug": "549-red-robin",
+    "work": {
+      "occupation": "-",
+      "base": "Gotham City; Titans Tower, San Francisco"
+    }
+  },
+  {
+    "id": 550,
+    "name": "Red Skull",
+    "slug": "550-red-skull",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 551,
+    "name": "Red Tornado",
+    "slug": "551-red-tornado",
+    "work": {
+      "occupation": "-",
+      "base": "Happy Harbor, Rhode Island"
+    }
+  },
+  {
+    "id": 555,
+    "name": "Rey",
+    "slug": "555-rey",
+    "work": {
+      "occupation": "Scavenger",
+      "base": "Jakku"
+    }
+  },
+  {
+    "id": 556,
+    "name": "Rhino",
+    "slug": "556-rhino",
+    "work": {
+      "occupation": "Professional Criminal ,Henchman of the Russian Mafia",
+      "base": "Mobile"
+    }
+  },
+  {
+    "id": 557,
+    "name": "Rick Flag",
+    "slug": "557-rick-flag",
+    "work": {
+      "occupation": "Government Agent, Covert Ops field Commander",
+      "base": "Belle Reve, Louisiana"
+    }
+  },
+  {
+    "id": 558,
+    "name": "Riddler",
+    "slug": "558-riddler",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 559,
+    "name": "Rip Hunter",
+    "slug": "559-rip-hunter",
+    "work": {
+      "occupation": "-",
+      "base": "Time Lab, Arizona"
+    }
+  },
+  {
+    "id": 561,
+    "name": "Robin",
+    "slug": "561-robin",
+    "work": {
+      "occupation": "-",
+      "base": "Wayne Tower, Gotham City; formerly the Batcave;  formerly Bl?dhaven;  formerly New York City"
+    }
+  },
+  {
+    "id": 562,
+    "name": "Robin II",
+    "slug": "562-robin-ii",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 563,
+    "name": "Robin III",
+    "slug": "563-robin-iii",
+    "work": {
+      "occupation": "High School Student",
+      "base": "Gotham City; Titans Tower, San Francisco"
+    }
+  },
+  {
+    "id": 564,
+    "name": "Robin V",
+    "slug": "564-robin-v",
+    "work": {
+      "occupation": "-",
+      "base": "Gotham City"
+    }
+  },
+  {
+    "id": 565,
+    "name": "Robin VI",
+    "slug": "565-robin-vi",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 566,
+    "name": "Rocket Raccoon",
+    "slug": "566-rocket-raccoon",
+    "work": {
+      "occupation": "Law enforcement officer, security guard, member of the Guardians of the Galaxy",
+      "base": "Knowhere; Formerly Hala, mobile aboard the Rakk'n'Ruin Halfworld, Keystone Quadrant"
+    }
+  },
+  {
+    "id": 567,
+    "name": "Rogue",
+    "slug": "567-rogue",
+    "work": {
+      "occupation": "Adventurer, former mechanic, waitress, terrorist",
+      "base": "-"
+    }
+  },
+  {
+    "id": 568,
+    "name": "Ronin",
+    "slug": "568-ronin",
+    "work": {
+      "occupation": "Outlaw adventurer, revolutionary; former professional super hero, fugitive, unnoficial S.H.I.E.L.D. operative, federal inmate, CTE security chief, ranch hand, archery tutor, carnival performer, roustabout, butcher shop worker",
+      "base": "-"
+    }
+  },
+  {
+    "id": 569,
+    "name": "Rorschach",
+    "slug": "569-rorschach",
+    "work": {
+      "occupation": "Vigilante, former garment worker",
+      "base": "-"
+    }
+  },
+  {
+    "id": 570,
+    "name": "Sabretooth",
+    "slug": "570-sabretooth",
+    "work": {
+      "occupation": "mercenary, professional criminal, assassin, serial killer",
+      "base": "mobile"
+    }
+  },
+  {
+    "id": 571,
+    "name": "Sage",
+    "slug": "571-sage",
+    "work": {
+      "occupation": "Former Soldier",
+      "base": "Base of operations unknown"
+    }
+  },
+  {
+    "id": 572,
+    "name": "Sandman",
+    "slug": "572-sandman",
+    "work": {
+      "occupation": "Professional Criminal",
+      "base": "-"
+    }
+  },
+  {
+    "id": 573,
+    "name": "Sasquatch",
+    "slug": "573-sasquatch",
+    "work": {
+      "occupation": "Adventurer, bio-physicist, government operative; former college lecturer, professional football player",
+      "base": "-"
+    }
+  },
+  {
+    "id": 574,
+    "name": "Sauron",
+    "slug": "574-sauron",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 575,
+    "name": "Savage Dragon",
+    "slug": "575-savage-dragon",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 576,
+    "name": "Scarecrow",
+    "slug": "576-scarecrow",
+    "work": {
+      "occupation": "Special Professional Criminal",
+      "base": "Gotham City"
+    }
+  },
+  {
+    "id": 577,
+    "name": "Scarlet Spider",
+    "slug": "577-scarlet-spider",
+    "work": {
+      "occupation": "Crime-fighter",
+      "base": "-"
+    }
+  },
+  {
+    "id": 578,
+    "name": "Scarlet Spider II",
+    "slug": "578-scarlet-spider-ii",
+    "work": {
+      "occupation": "Fugitive",
+      "base": "-"
+    }
+  },
+  {
+    "id": 579,
+    "name": "Scarlet Witch",
+    "slug": "579-scarlet-witch",
+    "work": {
+      "occupation": "Adventurer; formerly witchcraft tutor, housewife, terrorist",
+      "base": "Mobile; formerly The Works; Avengers Compound, California; Avengers Mansion, New York"
+    }
+  },
+  {
+    "id": 580,
+    "name": "Scorpia",
+    "slug": "580-scorpia",
+    "work": {
+      "occupation": "Professional criminal",
+      "base": "-"
+    }
+  },
+  {
+    "id": 581,
+    "name": "Scorpion",
+    "slug": "581-scorpion",
+    "work": {
+      "occupation": "U.S. government agent; former professional criminal, assassin, private detective",
+      "base": "-"
+    }
+  },
+  {
+    "id": 582,
+    "name": "Sebastian Shaw",
+    "slug": "582-sebastian-shaw",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 583,
+    "name": "Sentry",
+    "slug": "583-sentry",
+    "work": {
+      "occupation": "-",
+      "base": "The Watchtower (on top of Stark Tower, where it was formerly located before all memory of him disappeared)"
+    }
+  },
+  {
+    "id": 584,
+    "name": "Shadow King",
+    "slug": "584-shadow-king",
+    "work": {
+      "occupation": "-",
+      "base": "The Astral Plane; Formerly Cairo, Egypt."
+    }
+  },
+  {
+    "id": 585,
+    "name": "Shadow Lass",
+    "slug": "585-shadow-lass",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 586,
+    "name": "Shadowcat",
+    "slug": "586-shadowcat",
+    "work": {
+      "occupation": "Teacher, Adventurer, former student",
+      "base": "Xavier Insitute for Higher Learning, Salem Center, New York, formerly Muir Island off the coast of Scotland, formerly Excalibur's Lighthouse, formerly Braddock Manor, England"
+    }
+  },
+  {
+    "id": 587,
+    "name": "Shang-Chi",
+    "slug": "587-shang-chi",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 588,
+    "name": "Shatterstar",
+    "slug": "588-shatterstar",
+    "work": {
+      "occupation": "Warrior",
+      "base": "-"
+    }
+  },
+  {
+    "id": 589,
+    "name": "She-Hulk",
+    "slug": "589-she-hulk",
+    "work": {
+      "occupation": "Lawyer, Magistra of the Living Tribunal",
+      "base": "Law offices of Goodman, Lieber, Kurtzberg, & Holliway; formerly Avengers Mansion; Baxter Building, Four Freedoms Plaza"
+    }
+  },
+  {
+    "id": 590,
+    "name": "She-Thing",
+    "slug": "590-she-thing",
+    "work": {
+      "occupation": "Prisoner, former adventurer, wrestler, stuntwoman, scuba diver, motorcycle performer",
+      "base": "-"
+    }
+  },
+  {
+    "id": 591,
+    "name": "Shocker",
+    "slug": "591-shocker",
+    "work": {
+      "occupation": "Professional thief, hired assassin",
+      "base": "New York City, New York"
+    }
+  },
+  {
+    "id": 592,
+    "name": "Shriek",
+    "slug": "592-shriek",
+    "work": {
+      "occupation": "Former partner of Carnage, Carrion (Malcolm McBride), Demogoblin and Doppelganger). Before she became Shriek, she was a rock band groupie and drug dealer.",
+      "base": "-"
+    }
+  },
+  {
+    "id": 594,
+    "name": "Sif",
+    "slug": "594-sif",
+    "work": {
+      "occupation": "-",
+      "base": "Broxton/Asgard; Formerly New York City"
+    }
+  },
+  {
+    "id": 595,
+    "name": "Silk",
+    "slug": "595-silk",
+    "work": {
+      "occupation": "Vigilante, intern at Fact Channel News, adventurer; former student",
+      "base": "Sims Tower, Times Square, Manhattan, New York City, New York; formerly Sims Tower, Times Square, Manhattan, New York City, New York, Earth-3145; Central Park, Manhattan, New York City, New York, Earth-13"
+    }
+  },
+  {
+    "id": 598,
+    "name": "Silver Surfer",
+    "slug": "598-silver-surfer",
+    "work": {
+      "occupation": "Adventurer, formerly Galactus' Herald",
+      "base": "mobile throughout the universe"
+    }
+  },
+  {
+    "id": 599,
+    "name": "Silverclaw",
+    "slug": "599-silverclaw",
+    "work": {
+      "occupation": "University student, adventurer",
+      "base": "Empire State University and Avengers Mansion, New York City, NY"
+    }
+  },
+  {
+    "id": 600,
+    "name": "Simon Baz",
+    "slug": "600-simon-baz",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 601,
+    "name": "Sinestro",
+    "slug": "601-sinestro",
+    "work": {
+      "occupation": "-",
+      "base": "Ranx, Warworld. formerly New Korugar, Qward, Oa"
+    }
+  },
+  {
+    "id": 602,
+    "name": "Siren",
+    "slug": "602-siren",
+    "work": {
+      "occupation": "-",
+      "base": "formely Atlantis"
+    }
+  },
+  {
+    "id": 604,
+    "name": "Siryn",
+    "slug": "604-siryn",
+    "work": {
+      "occupation": "(current) Adventurer (former) Professional Criminal",
+      "base": "-"
+    }
+  },
+  {
+    "id": 605,
+    "name": "Skaar",
+    "slug": "605-skaar",
+    "work": {
+      "occupation": "Warrior",
+      "base": "-"
+    }
+  },
+  {
+    "id": 607,
+    "name": "Snowbird",
+    "slug": "607-snowbird",
+    "work": {
+      "occupation": "Goddess, adventurer, former records officer",
+      "base": "formerly Department H"
+    }
+  },
+  {
+    "id": 608,
+    "name": "Sobek",
+    "slug": "608-sobek",
+    "work": {
+      "occupation": "-",
+      "base": "Kahndaq"
+    }
+  },
+  {
+    "id": 609,
+    "name": "Solomon Grundy",
+    "slug": "609-solomon-grundy",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 610,
+    "name": "Songbird",
+    "slug": "610-songbird",
+    "work": {
+      "occupation": "Adventurer; former criminal and wrestler",
+      "base": "-"
+    }
+  },
+  {
+    "id": 611,
+    "name": "Space Ghost",
+    "slug": "611-space-ghost",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 612,
+    "name": "Spawn",
+    "slug": "612-spawn",
+    "work": {
+      "occupation": "-",
+      "base": "Hell"
+    }
+  },
+  {
+    "id": 613,
+    "name": "Spectre",
+    "slug": "613-spectre",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 615,
+    "name": "Speedy",
+    "slug": "615-speedy",
+    "work": {
+      "occupation": "Nightclub Owner",
+      "base": "-"
+    }
+  },
+  {
+    "id": 618,
+    "name": "Spider-Girl",
+    "slug": "618-spider-girl",
+    "work": {
+      "occupation": "-",
+      "base": "New York City, New York"
+    }
+  },
+  {
+    "id": 619,
+    "name": "Spider-Gwen",
+    "slug": "619-spider-gwen",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 620,
+    "name": "Spider-Man",
+    "slug": "620-spider-man",
+    "work": {
+      "occupation": "Freelance photographer, teacher",
+      "base": "New York, New York"
+    }
+  },
+  {
+    "id": 623,
+    "name": "Spider-Woman",
+    "slug": "623-spider-woman",
+    "work": {
+      "occupation": "Form agent of HYDRA, former bounty hunter, private investigator, adventurer",
+      "base": "-"
+    }
+  },
+  {
+    "id": 625,
+    "name": "Spider-Woman III",
+    "slug": "625-spider-woman-iii",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 627,
+    "name": "Spock",
+    "slug": "627-spock",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 628,
+    "name": "Spyke",
+    "slug": "628-spyke",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 630,
+    "name": "Star-Lord",
+    "slug": "630-star-lord",
+    "work": {
+      "occupation": "Adventurer; Royal Prince of Spartax",
+      "base": "C.I.T.T.; formerly Kree space; Hala, Daedalus 5"
+    }
+  },
+  {
+    "id": 631,
+    "name": "Stardust",
+    "slug": "631-stardust",
+    "work": {
+      "occupation": "Herald of Galactus",
+      "base": "-"
+    }
+  },
+  {
+    "id": 632,
+    "name": "Starfire",
+    "slug": "632-starfire",
+    "work": {
+      "occupation": "Model",
+      "base": "Formerly Titans Island, New York City; Titans Tower, San Francisco"
+    }
+  },
+  {
+    "id": 633,
+    "name": "Stargirl",
+    "slug": "633-stargirl",
+    "work": {
+      "occupation": "-",
+      "base": "Manhattan, New York City; Formerly Beverly Hills, California; later Blue Valley, Nebraska; later Metropolis"
+    }
+  },
+  {
+    "id": 634,
+    "name": "Static",
+    "slug": "634-static",
+    "work": {
+      "occupation": "Student",
+      "base": "Titans Tower, formerly Abandoned Gas Station of Solitude, Dakota City"
+    }
+  },
+  {
+    "id": 635,
+    "name": "Steel",
+    "slug": "635-steel",
+    "work": {
+      "occupation": "Weapons designer, former steelworker",
+      "base": "Steelworks, Metropolis; formerly Jersey City and Washington D.C."
+    }
+  },
+  {
+    "id": 636,
+    "name": "Stephanie Powell",
+    "slug": "636-stephanie-powell",
+    "work": {
+      "occupation": "Executive Vice President of Research at Global Tech",
+      "base": "-"
+    }
+  },
+  {
+    "id": 637,
+    "name": "Steppenwolf",
+    "slug": "637-steppenwolf",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 638,
+    "name": "Storm",
+    "slug": "638-storm",
+    "work": {
+      "occupation": "Adventurer",
+      "base": "Xavier Institute, Salem Center, Westchester County, New York State"
+    }
+  },
+  {
+    "id": 639,
+    "name": "Stormtrooper",
+    "slug": "639-stormtrooper",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 640,
+    "name": "Sunspot",
+    "slug": "640-sunspot",
+    "work": {
+      "occupation": "Adventurer, businessman",
+      "base": "1128 Mission Street, San Francisco, California"
+    }
+  },
+  {
+    "id": 641,
+    "name": "Superboy",
+    "slug": "641-superboy",
+    "work": {
+      "occupation": "-",
+      "base": "San Francisco; Smallville; Formerly Metropolis; Formerly Honolulu"
+    }
+  },
+  {
+    "id": 642,
+    "name": "Superboy-Prime",
+    "slug": "642-superboy-prime",
+    "work": {
+      "occupation": "-",
+      "base": "currently a recreation of Earth-Prime, formerly Qward, Anti-Matter Universe."
+    }
+  },
+  {
+    "id": 643,
+    "name": "Supergirl",
+    "slug": "643-supergirl",
+    "work": {
+      "occupation": "Intern, Adventurer, Student, Crime-Fighter",
+      "base": "Metropolis"
+    }
+  },
+  {
+    "id": 644,
+    "name": "Superman",
+    "slug": "644-superman",
+    "work": {
+      "occupation": "Reporter for the Daily Planet and novelist",
+      "base": "Metropolis"
+    }
+  },
+  {
+    "id": 645,
+    "name": "Swamp Thing",
+    "slug": "645-swamp-thing",
+    "work": {
+      "occupation": "Planet Elemental, former Biochemist",
+      "base": "-"
+    }
+  },
+  {
+    "id": 646,
+    "name": "Swarm",
+    "slug": "646-swarm",
+    "work": {
+      "occupation": "Ph.D. in toxicology & entomology",
+      "base": "Formerly South Africa"
+    }
+  },
+  {
+    "id": 647,
+    "name": "Sylar",
+    "slug": "647-sylar",
+    "work": {
+      "occupation": "Timepiece restorer",
+      "base": "New York, NY"
+    }
+  },
+  {
+    "id": 648,
+    "name": "Synch",
+    "slug": "648-synch",
+    "work": {
+      "occupation": "Student",
+      "base": "Massachusetts Academy"
+    }
+  },
+  {
+    "id": 649,
+    "name": "T-1000",
+    "slug": "649-t-1000",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 650,
+    "name": "T-800",
+    "slug": "650-t-800",
+    "work": {
+      "occupation": "Assassin",
+      "base": "-"
+    }
+  },
+  {
+    "id": 651,
+    "name": "T-850",
+    "slug": "651-t-850",
+    "work": {
+      "occupation": "Assassin",
+      "base": "-"
+    }
+  },
+  {
+    "id": 652,
+    "name": "T-X",
+    "slug": "652-t-x",
+    "work": {
+      "occupation": "Assassin / Genesis Overseer",
+      "base": "-"
+    }
+  },
+  {
+    "id": 653,
+    "name": "Taskmaster",
+    "slug": "653-taskmaster",
+    "work": {
+      "occupation": "Sheriff, Assassin, Mercenary; formerly Military Trainer, Combat Instructor, Head of Initiative training camp",
+      "base": "Bagalia; A.I.M Island, Taskmaster's Academy"
+    }
+  },
+  {
+    "id": 654,
+    "name": "Tempest",
+    "slug": "654-tempest",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 655,
+    "name": "Thanos",
+    "slug": "655-thanos",
+    "work": {
+      "occupation": "Conqueror, worshiper of Death",
+      "base": "Mobile, formerly Sanctuary II, Titan"
+    }
+  },
+  {
+    "id": 656,
+    "name": "The Cape",
+    "slug": "656-the-cape",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 657,
+    "name": "The Comedian",
+    "slug": "657-the-comedian",
+    "work": {
+      "occupation": "Former Adventurer; Government Agent",
+      "base": "New York City"
+    }
+  },
+  {
+    "id": 658,
+    "name": "Thing",
+    "slug": "658-thing",
+    "work": {
+      "occupation": "Adventurer, former Air Force test pilot",
+      "base": "Baxter Building, New York City, New York (formerly) Four Freedoms Plaza, Pier Four;"
+    }
+  },
+  {
+    "id": 659,
+    "name": "Thor",
+    "slug": "659-thor",
+    "work": {
+      "occupation": "King of Asgard; formerly EMS Technician; Physician",
+      "base": "New York, New York"
+    }
+  },
+  {
+    "id": 660,
+    "name": "Thor Girl",
+    "slug": "660-thor-girl",
+    "work": {
+      "occupation": "-",
+      "base": "Camp Hammond; FormerlyNew York City, Formerly Asgard"
+    }
+  },
+  {
+    "id": 661,
+    "name": "Thunderbird",
+    "slug": "661-thunderbird",
+    "work": {
+      "occupation": "Former adventurer, student, Marine",
+      "base": "Xavier's School for Gifted Youngsters, Salem Center, Westchester County, New York"
+    }
+  },
+  {
+    "id": 664,
+    "name": "Thunderstrike",
+    "slug": "664-thunderstrike",
+    "work": {
+      "occupation": "(as Thunderstrike) Adventurer, crimefighter, (as Masterson) Architect",
+      "base": "-"
+    }
+  },
+  {
+    "id": 665,
+    "name": "Thundra",
+    "slug": "665-thundra",
+    "work": {
+      "occupation": "Ruler, warrior",
+      "base": "Mobile; United Sisterhood Republic of North America"
+    }
+  },
+  {
+    "id": 666,
+    "name": "Tiger Shark",
+    "slug": "666-tiger-shark",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 667,
+    "name": "Tigra",
+    "slug": "667-tigra",
+    "work": {
+      "occupation": "Laboratory assistant, model, adventurer, NYC police",
+      "base": "New York City, New York USA"
+    }
+  },
+  {
+    "id": 668,
+    "name": "Tinkerer",
+    "slug": "668-tinkerer",
+    "work": {
+      "occupation": "Inventor and technician serving the underworld",
+      "base": "-"
+    }
+  },
+  {
+    "id": 670,
+    "name": "Toad",
+    "slug": "670-toad",
+    "work": {
+      "occupation": "Former criminal",
+      "base": "-"
+    }
+  },
+  {
+    "id": 671,
+    "name": "Toxin",
+    "slug": "671-toxin",
+    "work": {
+      "occupation": "Police officer",
+      "base": "-"
+    }
+  },
+  {
+    "id": 672,
+    "name": "Toxin",
+    "slug": "672-toxin",
+    "work": {
+      "occupation": "Vigilante; former symbiote hunter, shelter attendant, government operative, journalist for the Daily Globe",
+      "base": "New York, New York"
+    }
+  },
+  {
+    "id": 676,
+    "name": "Triplicate Girl",
+    "slug": "676-triplicate-girl",
+    "work": {
+      "occupation": "-",
+      "base": "Earth, 31st century"
+    }
+  },
+  {
+    "id": 677,
+    "name": "Triton",
+    "slug": "677-triton",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 678,
+    "name": "Two-Face",
+    "slug": "678-two-face",
+    "work": {
+      "occupation": "Reformed criminal; former district attorney",
+      "base": "-"
+    }
+  },
+  {
+    "id": 679,
+    "name": "Ultragirl",
+    "slug": "679-ultragirl",
+    "work": {
+      "occupation": "Model",
+      "base": "-"
+    }
+  },
+  {
+    "id": 680,
+    "name": "Ultron",
+    "slug": "680-ultron",
+    "work": {
+      "occupation": "Mass murderer, scientist, would-be world conqueror, ruler of Phalanx",
+      "base": "-"
+    }
+  },
+  {
+    "id": 681,
+    "name": "Utgard-Loki",
+    "slug": "681-utgard-loki",
+    "work": {
+      "occupation": "Monarch",
+      "base": "-"
+    }
+  },
+  {
+    "id": 685,
+    "name": "Vanisher",
+    "slug": "685-vanisher",
+    "work": {
+      "occupation": "Professional criminal, former subversive",
+      "base": "former) Factor Three headquarters, Europe; Beat Street Club, New York City"
+    }
+  },
+  {
+    "id": 686,
+    "name": "Vegeta",
+    "slug": "686-vegeta",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 687,
+    "name": "Venom",
+    "slug": "687-venom",
+    "work": {
+      "occupation": "Vigilante; former journalist for the Daily Globe, government operative",
+      "base": "New York, New York"
+    }
+  },
+  {
+    "id": 688,
+    "name": "Venom II",
+    "slug": "688-venom-ii",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 689,
+    "name": "Venom III",
+    "slug": "689-venom-iii",
+    "work": {
+      "occupation": "Government operative; former professional criminal, private eye",
+      "base": "-"
+    }
+  },
+  {
+    "id": 690,
+    "name": "Venompool",
+    "slug": "690-venompool",
+    "work": {
+      "occupation": "Conqueror; Adventurer",
+      "base": "-"
+    }
+  },
+  {
+    "id": 692,
+    "name": "Vibe",
+    "slug": "692-vibe",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 693,
+    "name": "Vindicator",
+    "slug": "693-vindicator",
+    "work": {
+      "occupation": "former secretary, researcher",
+      "base": "Ottawa, Canada"
+    }
+  },
+  {
+    "id": 696,
+    "name": "Violet Parr",
+    "slug": "696-violet-parr",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 697,
+    "name": "Vision",
+    "slug": "697-vision",
+    "work": {
+      "occupation": "-",
+      "base": "Mobile. Formerly Avengers Mansion, New York City and Avengers Compound"
+    }
+  },
+  {
+    "id": 699,
+    "name": "Vixen",
+    "slug": "699-vixen",
+    "work": {
+      "occupation": "Former Model",
+      "base": "-"
+    }
+  },
+  {
+    "id": 701,
+    "name": "Vulture",
+    "slug": "701-vulture",
+    "work": {
+      "occupation": "Professional criminal; formerly electronics engineer",
+      "base": "-"
+    }
+  },
+  {
+    "id": 702,
+    "name": "Walrus",
+    "slug": "702-walrus",
+    "work": {
+      "occupation": "Cab driver",
+      "base": "-"
+    }
+  },
+  {
+    "id": 703,
+    "name": "War Machine",
+    "slug": "703-war-machine",
+    "work": {
+      "occupation": "Initiative instructor, adventurer, government agent; formerly: Sentinel Squad O*N*E combat instructor, soldier, pilot",
+      "base": "-"
+    }
+  },
+  {
+    "id": 705,
+    "name": "Warlock",
+    "slug": "705-warlock",
+    "work": {
+      "occupation": "Avenger, savior of worlds",
+      "base": "Counter-Earth, later mobile"
+    }
+  },
+  {
+    "id": 706,
+    "name": "Warp",
+    "slug": "706-warp",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 707,
+    "name": "Warpath",
+    "slug": "707-warpath",
+    "work": {
+      "occupation": "Adventurer",
+      "base": "-"
+    }
+  },
+  {
+    "id": 708,
+    "name": "Wasp",
+    "slug": "708-wasp",
+    "work": {
+      "occupation": "Adventurer, fashion designer, independently wealthy socialite",
+      "base": "Avengers Mansion"
+    }
+  },
+  {
+    "id": 709,
+    "name": "Watcher",
+    "slug": "709-watcher",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 711,
+    "name": "White Canary",
+    "slug": "711-white-canary",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 713,
+    "name": "Wildfire",
+    "slug": "713-wildfire",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 714,
+    "name": "Winter Soldier",
+    "slug": "714-winter-soldier",
+    "work": {
+      "occupation": "Adventurer; former SHIELD operative, Assassin (See Note under \"Winter Soldier\" article), Army Mascot, Student",
+      "base": "-"
+    }
+  },
+  {
+    "id": 716,
+    "name": "Wolfsbane",
+    "slug": "716-wolfsbane",
+    "work": {
+      "occupation": "Teacher",
+      "base": "(current) X-Factor Investigations, New York City (former)Professor Xavier's School of Gifted Youngsters, Salem Center, Westchester County, New York; Muir Island, Scotland; X-Factor headquarters, Embassy Row, Washington, D.C.; X-Factor Headquarters, New Yo"
+    }
+  },
+  {
+    "id": 717,
+    "name": "Wolverine",
+    "slug": "717-wolverine",
+    "work": {
+      "occupation": "Adventurer, instructor, former bartender, bouncer, spy, government operative, mercenary, soldier, sailor, miner",
+      "base": "Xavier Institute, Salem Center, Westchester County, New York; Avengers Tower, New York City"
+    }
+  },
+  {
+    "id": 718,
+    "name": "Wonder Girl",
+    "slug": "718-wonder-girl",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 719,
+    "name": "Wonder Man",
+    "slug": "719-wonder-man",
+    "work": {
+      "occupation": "Former industrialist, now stuntman, actor, adventurer",
+      "base": "Mobile"
+    }
+  },
+  {
+    "id": 720,
+    "name": "Wonder Woman",
+    "slug": "720-wonder-woman",
+    "work": {
+      "occupation": "Adventurer, Emissary to the world of Man, Protector of Paradise Island; former Goddess of Truth",
+      "base": "-"
+    }
+  },
+  {
+    "id": 722,
+    "name": "Wyatt Wingfoot",
+    "slug": "722-wyatt-wingfoot",
+    "work": {
+      "occupation": "Occasional adventurer",
+      "base": "Fantastic Four headquarters, New York City, and Keewazi Reservation, Oklahoma"
+    }
+  },
+  {
+    "id": 723,
+    "name": "X-23",
+    "slug": "723-x-23",
+    "work": {
+      "occupation": "Adventurer, Student, former; Assassin, Prostitute",
+      "base": "Mobile. Formerly Avengers Mansion, New York City and Avengers Compound"
+    }
+  },
+  {
+    "id": 724,
+    "name": "X-Man",
+    "slug": "724-x-man",
+    "work": {
+      "occupation": "Former shaman, adventurer, freedom fighter",
+      "base": "-"
+    }
+  },
+  {
+    "id": 726,
+    "name": "Yellowjacket",
+    "slug": "726-yellowjacket",
+    "work": {
+      "occupation": "Adventurer, Biochemist, former manager of Avengers Compound",
+      "base": "Avengers Mansion, New York City, New York, (formerly)Avengers Compound, Los Angeles, California"
+    }
+  },
+  {
+    "id": 727,
+    "name": "Yellowjacket II",
+    "slug": "727-yellowjacket-ii",
+    "work": {
+      "occupation": "Adventurer; former criminal, electronics engineer",
+      "base": "New York City area"
+    }
+  },
+  {
+    "id": 728,
+    "name": "Ymir",
+    "slug": "728-ymir",
+    "work": {
+      "occupation": "-",
+      "base": "Niffleheim"
+    }
+  },
+  {
+    "id": 729,
+    "name": "Yoda",
+    "slug": "729-yoda",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 730,
+    "name": "Zatanna",
+    "slug": "730-zatanna",
+    "work": {
+      "occupation": "-",
+      "base": "-"
+    }
+  },
+  {
+    "id": 731,
+    "name": "Zoom",
+    "slug": "731-zoom",
+    "work": {
+      "occupation": "-",
+      "base": "Keystone City, Kansas"
+    }
+  }
+]
