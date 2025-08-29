@@ -14,7 +14,7 @@ mat-toolbar {
     }
   }
 }
-// Floating add button styles
+
 button[matFab] {
   position: fixed;
   bottom: 5rem;
@@ -29,13 +29,11 @@ button[matFab] {
 }
 
 table.mat-table {
-  // height: 100%;
   margin-top: 1rem;
   position: relative;
   width: 100%;
 }
 
-// Fixed width columns
 .id-column {
   width: 2rem;
   min-width: 4rem;
@@ -65,7 +63,6 @@ table.mat-table {
   max-width: 1rem;
 }
 
-// Table container to handle overflow
 .table-container {
   width: 100%;
   height: 80dvh;
@@ -73,14 +70,12 @@ table.mat-table {
   margin: 0 2rem;
 }
 
-// Ensure table doesn't expand beyond container
 table {
   width: 100%;
   table-layout: fixed;
-  min-width: 600px; // Ensure minimum width for readability
+  min-width: 600px;
 }
 
-// Prevent text overflow in cells
 td,
 th {
   overflow: hidden;

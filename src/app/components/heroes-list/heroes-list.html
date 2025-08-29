@@ -21,9 +21,9 @@
     </mat-form-field>
   </mat-toolbar-row>
 </mat-toolbar>
-<button matFab extended>
+<button matFab extended (click)="createHero()">
   <mat-icon>add</mat-icon>
-  Crear
+  Añadir
 </button>
 <div class="table-container">
   <table mat-table [dataSource]="dataSource()" class="mat-elevation-z8">

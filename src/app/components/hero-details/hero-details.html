@@ -1,0 +1,52 @@
+<div class="container">
+  <mat-toolbar>
+    <mat-toolbar-row>
+      {{ mode === "create" ? "Crear un nuevo heroe" : "Editar heroe" }}
+    </mat-toolbar-row>
+  </mat-toolbar>
+  <form [formGroup]="heroForm" (ngSubmit)="onSubmit()">
+    <div class="form-container">
+      <div class="input-container">
+        <mat-form-field>
+          <mat-label>Nombre</mat-label>
+          <input matInput type="text" [formControl]="getControl('name')" />
+          @if (getControl('name').hasError('required')) {
+          <mat-error>El nombre es <strong>requerido</strong></mat-error>
+          } @if (getControl('name').hasError('maxlength')) {
+          <mat-error>El nombre debe tener menos de 50 caracteres</mat-error>
+          }
+        </mat-form-field>
+        <mat-form-field>
+          <mat-label>Compañía</mat-label>
+          <input matInput type="text" [formControl]="getControl('company')" />
+          @if (getControl('company').hasError('required')) {
+          <mat-error>La compañía es <strong>requerida</strong></mat-error>
+          } @if (getControl('company').hasError('maxlength')) {
+          <mat-error>La compañía debe tener menos de 50 caracteres</mat-error>
+          }
+        </mat-form-field>
+        <mat-form-field>
+          <mat-label>Ocupación</mat-label>
+          <textarea
+            matInput
+            cdkTextareaAutosize
+            #autosize="cdkTextareaAutosize"
+            cdkAutosizeMinRows="1"
+            cdkAutosizeMaxRows="5"
+            [formControl]="getControl('occupation')"
+          ></textarea>
+          @if (getControl('occupation').hasError('required')) {
+          <mat-error>La ocupación es <strong>requerida</strong></mat-error>
+          } @if (getControl('occupation').hasError('maxlength')) {
+          <mat-error>La ocupación debe tener menos de 100 caracteres</mat-error>
+          }
+        </mat-form-field>
+      </div>
+      <div class="actions-container">
+        <button matButton="filled" type="submit">
+          {{ mode === "create" ? "Crear" : "Editar" }}
+        </button>
+      </div>
+    </div>
+  </form>
+</div>

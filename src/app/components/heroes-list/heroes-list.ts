@@ -18,6 +18,8 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatPaginator, MatPaginatorModule } from '@angular/material/paginator';
 import { MatMenuModule } from '@angular/material/menu';
 import { toObservable, toSignal } from '@angular/core/rxjs-interop';
+import { MatDialog } from '@angular/material/dialog';
+import { HeroDetails } from '../hero-details/hero-details';
 
 @Component({
   selector: 'app-heroes-list',
@@ -37,6 +39,7 @@ import { toObservable, toSignal } from '@angular/core/rxjs-interop';
 export class HeroesList {
   @ViewChild(MatPaginator) paginator!: MatPaginator;
   private heroService = inject(HeroService);
+  private dialog = inject(MatDialog);
 
   pageSizeOptions: PageSize[] = [10, 20, 50, 100];
   pageSize = signal<PageSize>(10);
@@ -46,8 +49,6 @@ export class HeroesList {
 
   value = '';
   searchValue = signal<string>('');
-
-  // Create a debounced search signal for better performance
   debouncedSearchValue = toSignal(
     toObservable(this.searchValue).pipe(debounceTime(1000)),
     {
@@ -64,18 +65,28 @@ export class HeroesList {
 
     if (this.debouncedSearchValue()) {
       newDataSource.data = this.heroService.searchHeroesByName(
-        this.searchValue()
+        this.debouncedSearchValue()
       );
     } else if (this.heroesResource.hasValue()) {
       newDataSource.data = this.heroesResource.value();
     }
     newDataSource.paginator = this.paginator;
+    console.log(this.heroesResource.value());
+    console.log(newDataSource.data.length);
 
     return newDataSource;
   });
 
   setSearchSignal() {
-    // Update the search value directly
     this.searchValue.set(this.value ?? '');
+  }
+
+  createHero() {
+    this.dialog.open(HeroDetails, {
+      width: '50rem',
+      data: {
+        mode: 'create',
+      },
+    });
   }
 }
