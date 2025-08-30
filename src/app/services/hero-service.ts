@@ -17,6 +17,7 @@ export class HeroService {
   private heroesJSONPath = '/heroes.json';
   private http = inject(HttpClient);
   private heroes = signal<Hero[]>([]);
+  private fakeApiUrl = 'https://jsonplaceholder.typicode.com/';
 
   heroesList = this.heroes.asReadonly();
 
@@ -83,10 +84,13 @@ export class HeroService {
       slug: hero.slug.toLowerCase(),
       work: hero.work,
     };
-    this.heroes.update((heroes) => [...heroes, newHero]);
 
-    return of(this.heroes()).pipe(
-      delay(800),
+    const url = this.fakeApiUrl + 'posts';
+    return this.http.post<Hero>(url, newHero).pipe(
+      map(() => {
+        this.heroes.update((heroes) => [...heroes, newHero]);
+        return this.heroes();
+      }),
       catchError((error) => {
         console.error('Error creating hero:', error);
         throw error;
@@ -107,14 +111,17 @@ export class HeroService {
       ...currentHero,
       ...hero,
     };
-    this.heroes.update((heroes) => {
-      const newHeroes = [...heroes];
-      newHeroes[heroIndex] = updatedHero;
-      return newHeroes;
-    });
 
-    return of(updatedHero).pipe(
-      delay(600),
+    const url = `https://jsonplaceholder.typicode.com/posts/${id}`;
+    return this.http.patch<Hero>(url, updatedHero).pipe(
+      map(() => {
+        this.heroes.update((heroes) => {
+          const newHeroes = [...heroes];
+          newHeroes[heroIndex] = updatedHero;
+          return newHeroes;
+        });
+        return updatedHero;
+      }),
       catchError((error) => {
         console.error('Error updating hero:', error);
         throw error;

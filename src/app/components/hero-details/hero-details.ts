@@ -75,7 +75,7 @@ export class HeroDetails {
           occupation: this.heroForm.value.occupation!,
         },
       };
-      this.heroService.createHero(hero);
+      this.heroService.createHero(hero).subscribe();
     } else {
       const hero: UpdateHeroDto = {
         name: this.heroForm.value.name!,
@@ -85,7 +85,7 @@ export class HeroDetails {
           occupation: this.heroForm.value.occupation!,
         },
       };
-      this.heroService.updateHero(this.hero.id, hero);
+      this.heroService.updateHero(this.hero.id, hero).subscribe();
     }
     this.dialogRef.close(true);
   }
