@@ -116,7 +116,7 @@ export class HeroesList {
       .afterClosed()
       .subscribe((result) => {
         if (result) {
-          this.heroService.deleteHero(id);
+          this.heroService.deleteHero(id).subscribe();
         }
       });
   }

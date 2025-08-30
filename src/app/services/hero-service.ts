@@ -112,8 +112,9 @@ export class HeroService {
       ...hero,
     };
 
-    const url = `https://jsonplaceholder.typicode.com/posts/${id}`;
+    const url = this.fakeApiUrl + `posts/${id}`;
     return this.http.patch<Hero>(url, updatedHero).pipe(
+      delay(1000),
       map(() => {
         this.heroes.update((heroes) => {
           const newHeroes = [...heroes];
@@ -138,14 +139,17 @@ export class HeroService {
       });
     }
 
-    this.heroes.update((heroes) => {
-      const newHeroes = [...heroes];
-      newHeroes.splice(heroIndex, 1);
-      return newHeroes;
-    });
-
-    return of(deletedHero).pipe(
-      delay(600),
+    const url = this.fakeApiUrl + `posts/${id}`;
+    return this.http.delete<Hero>(url).pipe(
+      delay(1000),
+      map(() => {
+        this.heroes.update((heroes) => {
+          const newHeroes = [...heroes];
+          newHeroes.splice(heroIndex, 1);
+          return newHeroes;
+        });
+        return deletedHero;
+      }),
       catchError((error) => {
         console.error('Error deleting hero:', error);
         throw error;
