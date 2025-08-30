@@ -65,17 +65,13 @@
           <mat-icon>more_vert</mat-icon>
         </button>
         <mat-menu #menu="matMenu">
-          <button mat-menu-item>
+          <button mat-menu-item (click)="editHero(element.id)">
             <mat-icon>edit</mat-icon>
             <span>Edit</span>
           </button>
-          <button mat-menu-item>
+          <button mat-menu-item (click)="deleteHero(element.id)">
             <mat-icon>delete</mat-icon>
             <span>Delete</span>
-          </button>
-          <button mat-menu-item>
-            <mat-icon>visibility</mat-icon>
-            <span>View Details</span>
           </button>
         </mat-menu>
       </td>

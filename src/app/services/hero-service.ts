@@ -1,6 +1,6 @@
 import { inject, Injectable, signal } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { of } from 'rxjs';
+import { Observable, of } from 'rxjs';
 import { delay, map, catchError, tap } from 'rxjs/operators';
 import {
   CreateHeroDto,
@@ -17,6 +17,8 @@ export class HeroService {
   private heroesJSONPath = '/heroes.json';
   private http = inject(HttpClient);
   private heroes = signal<Hero[]>([]);
+
+  heroesList = this.heroes.asReadonly();
 
   getAllHeroes() {
     return this.http.get<Hero[]>(this.heroesJSONPath).pipe(
@@ -74,48 +76,81 @@ export class HeroService {
     );
   }
 
-  createHero(hero: CreateHeroDto) {
+  createHero(hero: CreateHeroDto): Observable<Hero[]> {
     const newHero: Hero = {
       id: this.heroes().length + 1,
       name: hero.name.toUpperCase(),
       slug: hero.slug.toLowerCase(),
       work: hero.work,
     };
-    this.heroes.set([...this.heroes(), newHero]);
+    this.heroes.update((heroes) => [...heroes, newHero]);
+
+    return of(this.heroes()).pipe(
+      delay(800),
+      catchError((error) => {
+        console.error('Error creating hero:', error);
+        throw error;
+      })
+    );
   }
 
-  updateHero(id: number, hero: UpdateHeroDto) {
-    this.heroes.update((heroes) => {
-      const heroIndex = heroes.findIndex((h) => h.id === id);
-      if (heroIndex === -1) {
-        throw new Error(`Hero with id ${id} not found`);
-      }
-      const currentHero = heroes[heroIndex];
-      const updatedHero: Hero = {
-        ...currentHero,
-        ...hero,
-      };
-      heroes[heroIndex] = updatedHero;
-      return heroes;
-    });
-  }
-
-  deleteHero(id: number) {
+  updateHero(id: number, hero: UpdateHeroDto): Observable<Hero> {
     const heroIndex = this.heroes().findIndex((h) => h.id === id);
     if (heroIndex === -1) {
-      throw new Error(`Hero with id ${id} not found`);
+      return new Observable((observer) => {
+        observer.error(new Error(`Hero with id ${id} not found`));
+      });
     }
+
+    const currentHero = this.heroes()[heroIndex];
+    const updatedHero: Hero = {
+      ...currentHero,
+      ...hero,
+    };
     this.heroes.update((heroes) => {
-      heroes.splice(heroIndex, 1);
-      return heroes;
+      const newHeroes = [...heroes];
+      newHeroes[heroIndex] = updatedHero;
+      return newHeroes;
     });
+
+    return of(updatedHero).pipe(
+      delay(600),
+      catchError((error) => {
+        console.error('Error updating hero:', error);
+        throw error;
+      })
+    );
+  }
+
+  deleteHero(id: number): Observable<Hero> {
+    const heroIndex = this.heroes().findIndex((h) => h.id === id);
+    const deletedHero = this.heroes()[heroIndex];
+    if (heroIndex === -1) {
+      return new Observable((observer) => {
+        observer.error(new Error(`Hero with id ${id} not found`));
+      });
+    }
+
+    this.heroes.update((heroes) => {
+      const newHeroes = [...heroes];
+      newHeroes.splice(heroIndex, 1);
+      return newHeroes;
+    });
+
+    return of(deletedHero).pipe(
+      delay(600),
+      catchError((error) => {
+        console.error('Error deleting hero:', error);
+        throw error;
+      })
+    );
   }
 
   resetHeroes() {
     this.heroes.set([]);
   }
 
-  reloadHeroes() {
+  private reloadHeroes() {
     this.resetHeroes();
     this.getAllHeroes();
   }

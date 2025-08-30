@@ -20,6 +20,7 @@ import { MatMenuModule } from '@angular/material/menu';
 import { toObservable, toSignal } from '@angular/core/rxjs-interop';
 import { MatDialog } from '@angular/material/dialog';
 import { HeroDetails } from '../hero-details/hero-details';
+import { ConfirmDialog } from '../confirm-dialog/confirm-dialog';
 
 @Component({
   selector: 'app-heroes-list',
@@ -57,7 +58,13 @@ export class HeroesList {
   );
 
   heroesResource = resource({
-    loader: () => firstValueFrom(this.heroService.getAllHeroes()),
+    params: () => ({ heroes: this.heroService.heroesList() }),
+    loader: ({ params }): Promise<Hero[]> => {
+      if (params.heroes.length > 0) {
+        return Promise.resolve(params.heroes);
+      }
+      return firstValueFrom(this.heroService.getAllHeroes());
+    },
   });
 
   dataSource = computed(() => {
@@ -86,5 +93,31 @@ export class HeroesList {
         mode: 'create',
       },
     });
+  }
+
+  editHero(id: number) {
+    this.dialog.open(HeroDetails, {
+      width: '50rem',
+      data: {
+        mode: 'edit',
+        hero: this.heroService.getHeroById(id),
+      },
+    });
+  }
+
+  deleteHero(id: number) {
+    this.dialog
+      .open(ConfirmDialog, {
+        width: '25rem',
+        data: {
+          heroName: this.heroService.getHeroById(id).name,
+        },
+      })
+      .afterClosed()
+      .subscribe((result) => {
+        if (result) {
+          this.heroService.deleteHero(id);
+        }
+      });
   }
 }

@@ -1,0 +1,18 @@
+<mat-dialog-content class="content">
+  <p class="title">Esta eliminando a un heroe</p>
+  <mat-label>
+    Esta seguro que desea eliminar a <strong>{{ data.heroName }}</strong
+    >?</mat-label
+  >
+</mat-dialog-content>
+<mat-dialog-actions>
+  <button matButton="outlined" (click)="onNoClick()">Cancelar</button>
+  <button
+    matButton="filled"
+    style="background-color: #f44336; color: white"
+    (click)="onConfirm()"
+    cdkFocusInitial
+  >
+    Confirmar
+  </button>
+</mat-dialog-actions>
