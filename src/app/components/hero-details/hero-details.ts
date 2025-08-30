@@ -16,6 +16,7 @@ import {
 import { MatButtonModule } from '@angular/material/button';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { HeroService } from '../../services/hero-service';
+import { UppercaseDirective } from '../../directives/upper-case.directive';
 
 @Component({
   selector: 'app-hero-details',
@@ -25,6 +26,7 @@ import { HeroService } from '../../services/hero-service';
     ReactiveFormsModule,
     MatButtonModule,
     MatFormFieldModule,
+    UppercaseDirective,
   ],
   templateUrl: './hero-details.html',
   styleUrl: './hero-details.scss',
@@ -38,7 +40,7 @@ export class HeroDetails {
 
   heroForm = this.fb.group({
     name: ['', [Validators.required, Validators.maxLength(50)]],
-    company: ['', [Validators.required, Validators.maxLength(50)]],
+    company: ['', [Validators.required, Validators.maxLength(100)]],
     occupation: ['', [Validators.required, Validators.maxLength(100)]],
   });
 
@@ -49,8 +51,8 @@ export class HeroDetails {
     if (this.mode === 'edit' && this.hero) {
       this.heroForm.patchValue({
         name: this.hero.name,
-        company: this.hero.work.occupation,
-        occupation: this.hero.work.base,
+        occupation: this.hero.work.occupation,
+        company: this.hero.work.base,
       });
     }
   }
@@ -69,8 +71,8 @@ export class HeroDetails {
         name: this.heroForm.value.name!,
         slug: this.heroForm.value.name!.toLowerCase().replace(/ /g, '-'),
         work: {
-          occupation: this.heroForm.value.company!,
-          base: this.heroForm.value.occupation!,
+          base: this.heroForm.value.company!,
+          occupation: this.heroForm.value.occupation!,
         },
       };
       this.heroService.createHero(hero);
@@ -79,8 +81,8 @@ export class HeroDetails {
         name: this.heroForm.value.name!,
         slug: this.heroForm.value.name!.toLowerCase().replace(/ /g, '-'),
         work: {
-          occupation: this.heroForm.value.company!,
-          base: this.heroForm.value.occupation!,
+          base: this.heroForm.value.company!,
+          occupation: this.heroForm.value.occupation!,
         },
       };
       this.heroService.updateHero(this.hero.id, hero);

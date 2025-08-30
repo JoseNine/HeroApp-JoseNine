@@ -9,7 +9,12 @@
       <div class="input-container">
         <mat-form-field>
           <mat-label>Nombre</mat-label>
-          <input matInput type="text" [formControl]="getControl('name')" />
+          <input
+            matInput
+            type="text"
+            [formControl]="getControl('name')"
+            Uppercase
+          />
           @if (getControl('name').hasError('required')) {
           <mat-error>El nombre es <strong>requerido</strong></mat-error>
           } @if (getControl('name').hasError('maxlength')) {
