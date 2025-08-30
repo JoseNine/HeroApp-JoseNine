@@ -71,8 +71,6 @@ export class HeroesList {
       newDataSource.data = this.heroesResource.value();
     }
     newDataSource.paginator = this.paginator;
-    console.log(this.heroesResource.value());
-    console.log(newDataSource.data.length);
 
     return newDataSource;
   });
