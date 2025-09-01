@@ -88,7 +88,7 @@ export class HeroService {
     const url = this.fakeApiUrl + 'posts';
     return this.http.post<Hero>(url, newHero).pipe(
       map(() => {
-        this.heroes.update((heroes) => [...heroes, newHero]);
+        this.heroes.update((heroes) => [newHero, ...heroes]);
         return this.heroes();
       }),
       catchError((error) => {

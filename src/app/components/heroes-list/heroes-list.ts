@@ -38,14 +38,11 @@ import { ConfirmDialog } from '../confirm-dialog/confirm-dialog';
   styleUrl: './heroes-list.scss',
 })
 export class HeroesList {
-  @ViewChild(MatPaginator) paginator!: MatPaginator;
   private heroService = inject(HeroService);
   private dialog = inject(MatDialog);
 
+  @ViewChild(MatPaginator) paginator!: MatPaginator;
   pageSizeOptions: PageSize[] = [10, 20, 50, 100];
-  pageSize = signal<PageSize>(10);
-  pageIndex = signal<number>(0);
-  length = signal<number>(0);
   displayedColumns: string[] = ['id', 'name', 'occupation', 'menu'];
 
   value = '';
