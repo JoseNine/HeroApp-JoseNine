@@ -6,7 +6,6 @@ import { MatInputModule } from '@angular/material/input';
 import { MatButtonModule } from '@angular/material/button';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { provideHttpClient, withFetch } from '@angular/common/http';
-import { provideNoopAnimations } from '@angular/platform-browser/animations';
 
 import { HeroDetails } from './hero-details';
 import { HeroService } from '../../services/hero-service';
@@ -18,11 +17,11 @@ describe('HeroDetails', () => {
 
   const mockDialogData = {
     mode: 'create',
-    hero: null
+    hero: null,
   };
 
   const mockDialogRef = {
-    close: jasmine.createSpy('close')
+    close: jasmine.createSpy('close'),
   };
 
   beforeEach(async () => {
@@ -34,17 +33,16 @@ describe('HeroDetails', () => {
         MatInputModule,
         MatButtonModule,
         MatFormFieldModule,
-        UppercaseDirective
+        UppercaseDirective,
       ],
       providers: [
         HeroService,
         provideHttpClient(withFetch()),
-        provideNoopAnimations(),
+
         { provide: MAT_DIALOG_DATA, useValue: mockDialogData },
-        { provide: MatDialogRef, useValue: mockDialogRef }
-      ]
-    })
-    .compileComponents();
+        { provide: MatDialogRef, useValue: mockDialogRef },
+      ],
+    }).compileComponents();
 
     fixture = TestBed.createComponent(HeroDetails);
     component = fixture.componentInstance;
@@ -54,7 +52,7 @@ describe('HeroDetails', () => {
   it('should create', () => {
     expect(component).toBeTruthy();
   });
-  
+
   it('should form valid', () => {
     const fixture = TestBed.createComponent(HeroDetails);
     const app = fixture.componentInstance;

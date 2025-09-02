@@ -1,6 +1,6 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 import { provideHttpClient, withFetch } from '@angular/common/http';
-import { provideNoopAnimations } from '@angular/platform-browser/animations';
+
 import { MatDialog } from '@angular/material/dialog';
 import { MatTableModule } from '@angular/material/table';
 import { MatToolbarModule } from '@angular/material/toolbar';
@@ -19,7 +19,7 @@ describe('HeroesList', () => {
   let fixture: ComponentFixture<HeroesList>;
 
   const mockMatDialog = {
-    open: jasmine.createSpy('open')
+    open: jasmine.createSpy('open'),
   };
 
   beforeEach(async () => {
@@ -33,16 +33,15 @@ describe('HeroesList', () => {
         MatIconModule,
         MatButtonModule,
         MatPaginatorModule,
-        MatMenuModule
+        MatMenuModule,
       ],
       providers: [
         HeroService,
         provideHttpClient(withFetch()),
-        provideNoopAnimations(),
-        { provide: MatDialog, useValue: mockMatDialog }
-      ]
-    })
-    .compileComponents();
+
+        { provide: MatDialog, useValue: mockMatDialog },
+      ],
+    }).compileComponents();
 
     fixture = TestBed.createComponent(HeroesList);
     component = fixture.componentInstance;

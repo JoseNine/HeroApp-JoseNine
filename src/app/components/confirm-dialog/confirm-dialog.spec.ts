@@ -1,6 +1,10 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
-import { provideNoopAnimations } from '@angular/platform-browser/animations';
-import { MAT_DIALOG_DATA, MatDialogRef, MatDialogModule } from '@angular/material/dialog';
+
+import {
+  MAT_DIALOG_DATA,
+  MatDialogRef,
+  MatDialogModule,
+} from '@angular/material/dialog';
 import { MatButton } from '@angular/material/button';
 import { MatLabel } from '@angular/material/input';
 
@@ -11,28 +15,21 @@ describe('ConfirmDialog', () => {
   let fixture: ComponentFixture<ConfirmDialog>;
 
   const mockDialogData: ConfirmDialogData = {
-    heroName: 'Batman'
+    heroName: 'Batman',
   };
 
   const mockDialogRef = {
-    close: jasmine.createSpy('close')
+    close: jasmine.createSpy('close'),
   };
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [
-        ConfirmDialog,
-        MatDialogModule,
-        MatButton,
-        MatLabel
-      ],
+      imports: [ConfirmDialog, MatDialogModule, MatButton, MatLabel],
       providers: [
-        provideNoopAnimations(),
         { provide: MAT_DIALOG_DATA, useValue: mockDialogData },
-        { provide: MatDialogRef, useValue: mockDialogRef }
-      ]
-    })
-    .compileComponents();
+        { provide: MatDialogRef, useValue: mockDialogRef },
+      ],
+    }).compileComponents();
 
     fixture = TestBed.createComponent(ConfirmDialog);
     component = fixture.componentInstance;
